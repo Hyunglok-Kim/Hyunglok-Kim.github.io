@@ -9,12 +9,15 @@ I am a PhD candidate in Engineering Systems and Environment with a focus on remo
 `2019 - present`
 University of Virginia, VA, USA
 Ph.D. Candidate in Engineering Systems and Environment
+
 `2020 - 2021`
 University of Virginia, VA, USA
 M.S. in Data Science
+
 `2014 - 2016`
 Sungkyunkwan University, Seoul, South Korea
 M.S.E. in Water Resources
+
 `2008 - 2012`
 Hanyang University, Seoul, South Korea
 B.S. in Civil Engineering
