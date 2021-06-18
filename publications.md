@@ -8,42 +8,43 @@ layout: resume
 ### Peer-Reviewed Papers
 
 `2021`
-[20] __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model, 
+[20] __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model,\ 
 _Environmental Research Letters_
 
 `2021`
-[19] S. Lee, J. Qi, __H. Kim__, G. McCarty, G. Moglen, M. Anderson, X. Zhang, and L. Du, Utility of Remotely Sensed Evapotranspiration Products to Assess an Improved Model Structure, 
+[19] S. Lee, J. Qi, __H. Kim__, G. McCarty, G. Moglen, M. Anderson, X. Zhang, and L. Du, Utility of Remotely Sensed Evapotranspiration Products to Assess an Improved Model Structure,\
 _Sustainability_
 
 `2020`
-[18] M. Le, __H. Kim__, H. Moon, R. Zhang, V. Lakshmi, and L. Nguyen, Assessment of drought conditions over Vietnam using standardized precipitation evapotranspiration index, MERRA-2 re-analysis, and dynamic land cover, 
+[18] M. Le, __H. Kim__, H. Moon, R. Zhang, V. Lakshmi, and L. Nguyen, Assessment of drought conditions over Vietnam using standardized precipitation evapotranspiration index, MERRA-2 re-analysis, and dynamic land cover,\
 _Journal of Hydrology: Regional Studies_
 
 `2020`
-[17] __H. Kim__, J. Wigneron, S. Kumar, J. Dong, W. Wagner, M. Cosh, D. Bosch, C. Collins, P. Starks, M. Seyfried, and V. Lakshmi, Global scale error assessments of soil moisture estimates from microwave-based active and passive satellites and land surface models over forest and mixed irrigated/dryland agriculture regions, 
+[17] __H. Kim__, J. Wigneron, S. Kumar, J. Dong, W. Wagner, M. Cosh, D. Bosch, C. Collins, P. Starks, M. Seyfried, and V. Lakshmi, Global scale error assessments of soil moisture estimates from microwave-based active and passive satellites and land surface models over forest and mixed irrigated/dryland agriculture regions,\
 _Remote Sensing of Environment_
 
 `2020`
-[16] __H. Kim__, S. Lee, M. Cosh, V. Lakshmi, Y. Kwon, and G. McCarty, Assessment and Combination of SMAP and Sentinel-1A/B-Derived Soil Moisture Estimates With Land Surface Model Outputs in the Mid-Atlantic Coastal Plain, USA, 
+[16] __H. Kim__, S. Lee, M. Cosh, V. Lakshmi, Y. Kwon, and G. McCarty, Assessment and Combination of SMAP and Sentinel-1A/B-Derived Soil Moisture Estimates With Land Surface Model Outputs in the Mid-Atlantic Coastal Plain, USA,\
 _IEEE Transactions on Geoscience and Remote Sensing_
 
 `2019` 
-[15] __H. Kim__, M. Cosh, R. Bindlish, and V. Lakshmi, Field evaluation of portable soil water content sensors in a sandy loam, 
+[15] __H. Kim__, M. Cosh, R. Bindlish, and V. Lakshmi, Field evaluation of portable soil water content sensors in a sandy loam,\
 _Vadose Zone Journal_
 
 `2019`
-[14] S. Parajuli, G. Stenchikov, A. Ukhov, __H. Kim__, Dust emission modeling using a new high‐resolution dust source function in WRF‐Chem with implications for air quality, 
+[14] S. Parajuli, G. Stenchikov, A. Ukhov, __H. Kim__, Dust emission modeling using a new high‐resolution dust source function in WRF‐Chem with implications for air quality,\
 _Journal of Geophysical Research: Atmospheres_
 
 `2019`
-[13] M. Zohaib, __H. Kim__, M. Choi, Detecting global irrigated areas by using satellite and reanalysis products, 
-Science of The Total Environment
+[13] M. Zohaib, __H. Kim__, M. Choi, Detecting global irrigated areas by using satellite and reanalysis products,\
+_Science of The Total Environment_
 
 `2019`
-[12] __H. Kim__ and V. Lakshmi, Global dynamics of stored precipitation water in the topsoil layer from satellite and reanalysis data
+[12] __H. Kim__ and V. Lakshmi, Global dynamics of stored precipitation water in the topsoil layer from satellite and reanalysis data,\
+_Water Resources Research_
 
 `2018`
-[11] __H. Kim__ and V. Lakshmi, Use of Cyclone Global Navigation Satellite System (CYGNSS) observations for estimation of soil moisture, 
+[11] __H. Kim__ and V. Lakshmi, Use of Cyclone Global Navigation Satellite System (CYGNSS) observations for estimation of soil moisture,\ 
 _Geophysical Research Letters_
 
 `2018`
