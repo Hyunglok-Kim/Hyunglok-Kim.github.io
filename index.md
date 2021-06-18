@@ -8,7 +8,7 @@ You can find __[two](link)__ of the many intriguing projects on which I am worki
 See my [Google Scholar record](https://scholar.google.fr/citations?user=ZJx_f8gAAAAJ) to learn more about my work. You can contact me via [hk5kp@virginia.edu](hk5kp@virginia.edu).
 
 ## Current Interests:
-- Application of Deep Learning in Hydrology
+- Applications of Deep Learning in Hydrology
 - Remote Sensing of Environment
 - Global Water Cycle
 - Natural Disasters: Urban Floodings, Droughts, and Dust Outbreaks
