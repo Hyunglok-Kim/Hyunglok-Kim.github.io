@@ -3,9 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
-
-See my [Google Scholar record](https://scholar.google.fr/citations?user=ZJx_f8gAAAAJ) to learn more about my work. You can contact me via hk5kp@virginia.edu.
+I am a Ph.D. candiate at the Department of Engineering Systems and Environment in University of Virginia. See my [Google Scholar record](https://scholar.google.fr/citations?user=ZJx_f8gAAAAJ) to learn more about my work. You can contact me via [hk5kp@virginia.edu](hk5kp@virginia.edu).
 
 ## Current Interests:
 - Application of Deep Learning in Hydrology
