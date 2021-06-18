@@ -26,7 +26,19 @@ B.S. in Civil Engineering
 ## Awards
 
 `2020`
-Horton (Hydrology) Research Grant, American Geophysical Union ([link](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research))
+AGU Horton Research Grant funded by the Robert E. Horton Fund for Hydrologic Research ([link](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research))
+
+`2020`
+Virginia Engineering Foundation Graduate Fellowship
+
+`2020`
+Won 2nd place in the 16th annual University of Virginia Engineering Research Symposium, University of Virginia
+
+`2020`
+National Science Foundation (NSF) Travel awarded for the 8th International Conference on Flood Management
+
+`2020`
+Selected for the Korean American Scientists and Engineers Association (KSEA) Graduate Scholarship recipient 
 
 `2019`
 NASA Future Investigator, NASA ([link](https://engineering.virginia.edu/hyunglok-kim%E2%80%99s-soil-moisture-proposal-earns-selection-nasa%E2%80%99s-%E2%80%98future-investigator%E2%80%99-program))
@@ -35,7 +47,32 @@ NASA Future Investigator, NASA ([link](https://engineering.virginia.edu/hyunglok
 Outstanding Student Presentation Award at AGU Fall Meeting ([link](https://engineering.virginia.edu/hyunglok-kim-lands-coveted-outstanding-student-presentation-award-agu-fall-meeting))
 
 `2019`
+Award of Excellence (Student Competition; Second place), Engineering Systems and Environment Grad Symposium, University 
+ of Virginia
+
+`2019`
 Bicentennial Graduate Fellow, University of Virginia
+
+## JOURNAL Reviews
+Please see my [Publons record](https://publons.com/researcher/1508356/hyunglok-kim/)
+
+Remote Sensing of Environment
+Water Resources Research
+IEEE Transactions on Geoscience and Remote Sensing
+IEEE Geoscience and Remote Sensing Letters
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+Geophysical Research Letter
+Journal of Geophysical Research-Biogeosciences
+Scientific Report
+Journal of Meteorological Research
+Remote Sensing Letter
+Remote Sensing (MDPI)
+Sensor (MDPI)
+Water (MDPI)
+Atmospheres (MDPI)
+Hydrology (MDPI)
+
+__Reviewer Board (present)__: Remote Sensing, Geoscience ([link](https://www.mdpi.com/journal/remotesensing/submission_reviewers))
 
 
 ## Publications
