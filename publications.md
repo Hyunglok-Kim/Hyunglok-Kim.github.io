@@ -5,6 +5,8 @@ layout: resume
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=ZJx_f8gAAAAJ) -->
 
+[__Google Scholar Page__](https://scholar.google.fr/citations?user=ZJx_f8gAAAAJ)
+
 ### Peer-Reviewed Papers
 
 `2021`
