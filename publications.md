@@ -12,7 +12,7 @@ layout: resume
 _Environmental Research Letters_
 
 `2021`
-[19] S. Lee, J. Qi, __H. Kim__, G. McCarty, G. Moglen, M. Anderson, X. Zhang, and L. Du, Utility of Remotely Sensed Evapotranspiration Products to Assess an Improved Model Structure [<span style="color: blue"> [link] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/19.Lee_etal_2021_Sustainability.pdf)\
+[19] S. Lee, J. Qi, __H. Kim__, G. McCarty, G. Moglen, M. Anderson, X. Zhang, and L. Du, Utility of Remotely Sensed Evapotranspiration Products to Assess an Improved Model Structure [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/19.Lee_etal_2021_Sustainability.pdf)\
 _Sustainability_
 
 `2020`
