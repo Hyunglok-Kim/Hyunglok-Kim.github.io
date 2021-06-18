@@ -5,7 +5,7 @@ layout: resume
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=ZJx_f8gAAAAJ) -->
 
-### Peer-Reviewed Journal Papers
+### Peer-Reviewed Papers
 
 `2021`
 [20] __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model, 
