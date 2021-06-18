@@ -41,7 +41,7 @@ __ETC__
 + Introduction to Water Industry (SKKU)
 + Business Contiunity Planning (BCP) with GIS (SKKU)
 
-__Programming__(Workshops)
+__Programming__ (Workshops)
 + Introduction to Parallel Programming with MPI (UVA)
 + Introduction to Programming in Modern Fortran Workshop (UVA)
 + Satellite inspired hydrology in an uncertain future: an HSAF and HEPEX workshop
