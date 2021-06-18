@@ -4,7 +4,7 @@ excerpt: "About Me..."
 ---
 
 I am a Ph.D. candiate at the Department of Engineering Systems and Environment in University of Virginia where I am studying hydrology, applications of Bayes’ theorem, and global-scale water cycles. The overarching goal of my research is to provide accurate hydrological variables and solve the major challenges related to Earth system science that we will face in the coming decades. My work has practical applications for improving the quantity and quality of satellite- and model-based data to more accurately predict natural disasters and to provide a better understanding of the role played by hydrometeorological factors.
-You can find <p style="color:red"> __[two](link)__ </p>of the many intriguing projects on which I am working.
+You can find <p style='color:red'> __[two](link)__ </p>of the many intriguing projects on which I am working.
 See my [Google Scholar record](https://scholar.google.fr/citations?user=ZJx_f8gAAAAJ) to learn more about my work. You can contact me via [hk5kp@virginia.edu](hk5kp@virginia.edu).
 
 ## Current Interests:
