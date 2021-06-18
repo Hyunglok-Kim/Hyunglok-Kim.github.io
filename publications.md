@@ -12,11 +12,11 @@ layout: resume
 _Environmental Research Letters_
 
 `2021`
-[19] S. Lee, J. Qi, __H. Kim__, G. McCarty, G. Moglen, M. Anderson, X. Zhang, and L. Du, Utility of Remotely Sensed Evapotranspiration Products to Assess an Improved Model Structure [link](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/19.Lee_etal_2021_Sustainability.pdf)\
+[19] S. Lee, J. Qi, __H. Kim__, G. McCarty, G. Moglen, M. Anderson, X. Zhang, and L. Du, Utility of Remotely Sensed Evapotranspiration Products to Assess an Improved Model Structure [<span style="color: blue"> [link] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/19.Lee_etal_2021_Sustainability.pdf)\
 _Sustainability_
 
 `2020`
-[18] M. Le, __H. Kim__, H. Moon, R. Zhang, V. Lakshmi, and L. Nguyen, Assessment of drought conditions over Vietnam using standardized precipitation evapotranspiration index, MERRA-2 re-analysis, and dynamic land cover [link](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/18.Le_etal_2020_JoHRSpdf.pdf)\
+[18] M. Le, __H. Kim__, H. Moon, R. Zhang, V. Lakshmi, and L. Nguyen, Assessment of drought conditions over Vietnam using standardized precipitation evapotranspiration index, MERRA-2 re-analysis, and dynamic land cover [<span style="color: blue"> [link] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/18.Le_etal_2020_JoHRSpdf.pdf)\
 _Journal of Hydrology: Regional Studies_
 
 `2020`
