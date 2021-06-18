@@ -53,7 +53,7 @@ Award of Excellence (Student Competition; Second place), Engineering Systems and
 `2019`
 Bicentennial Graduate Fellow, University of Virginia
 
-## JOURNAL Reviews
+## Journal Reviews
 Please see ([Publons record](https://publons.com/researcher/1508356/hyunglok-kim/))
 
 Remote Sensing of Environment\
@@ -70,7 +70,7 @@ Remote Sensing (MDPI)\
 Sensor (MDPI)\
 Water (MDPI)\
 Atmospheres (MDPI)\
-Hydrology (MDPI)\
+Hydrology (MDPI)
 
 __Reviewer Board (present)__: Remote Sensing, Geoscience ([link](https://www.mdpi.com/journal/remotesensing/submission_reviewers))
 
