@@ -153,11 +153,11 @@ Sungkyunkwan University (M.S.E. in Water Resources)
 ### Korea Peer-Reviewed Papers
 
 `2016`
-[7] __H. Kim__, S. Kim, J. Jeong, I. Shin, J. Shin, M. Choi, Revising Passive Satellite-based Soil Moisture Retrievals over East Asia using SMOS (MIRAS) and GCOM-W1 (AMSR2) satellite and GLDAS Assimilation Dataset,
+[7] __H. Kim__, S. Kim, J. Jeong, I. Shin, J. Shin, M. Choi, Revising Passive Satellite-based Soil Moisture Retrievals over East Asia using SMOS (MIRAS) and GCOM-W1 (AMSR2) satellite and GLDAS Assimilation Dataset,\
 _Journal of Wetlands Research_
 
 `2016`
-[6] S. Kim, __H. Kim__, M. Choi, Evaluation of satellite-based soil moisture retrieval over the korean peninsula: using AMSR2 LPRM algorithm and ground measurement data, 
+[6] S. Kim, __H. Kim__, M. Choi, Evaluation of satellite-based soil moisture retrieval over the korean peninsula: using AMSR2 LPRM algorithm and ground measurement data,\
 _Journal of Korea Water Resources Association_
 
 `2016`
@@ -165,19 +165,19 @@ _Journal of Korea Water Resources Association_
 _Korea Water Resources Association_
 
 `2016`
-[4] Construction and estimation of soil moisture site with FDR and COSMIC-ray (SM-FC) sensors for calibration/validation of satellite-based and COSMIC-ray soil moisture products in Sungkyunkwan university, South Korea, 
+[4] Construction and estimation of soil moisture site with FDR and COSMIC-ray (SM-FC) sensors for calibration/validation of satellite-based and COSMIC-ray soil moisture products in Sungkyunkwan university, South Korea,\
 _Korea Water Resources Association_ ([link](https://www.koreascience.or.kr/article/JAKO201609757436435.page))
 
 `2016`
-[3] M. Choi, H. Kim, S. Kim, and M. Choi, Effects of Morbidity in Korean Peninsula due to Sand Dust using Satellite Aerosol Observations,
-Korea Journal of Remote Sensing
+[3] M. Choi, H. Kim, S. Kim, and M. Choi, Effects of Morbidity in Korean Peninsula due to Sand Dust using Satellite Aerosol Observations,\
+_Korea Journal of Remote Sensing_
 
 `2015`
-[2] __H. Kim__ and M. Choi, An Inter-comparison of Active and Passive Satellite Soil Moisture Products in East Asia for Dust-Outbreak Prediction,
+[2] __H. Kim__ and M. Choi, An Inter-comparison of Active and Passive Satellite Soil Moisture Products in East Asia for Dust-Outbreak Prediction,\
 _Korean Society of Hazard Mitigation_
 
 `2015`
-[1] J. Lim, J. Baik, __H. Kim__, M. Choi, Estimation of Water Quality using Landsat 8 Images for Geum-river, Korea, 
+[1] J. Lim, J. Baik, __H. Kim__, M. Choi, Estimation of Water Quality using Landsat 8 Images for Geum-river, Korea,\
 _Journal of Korea Water Resources Association_
 
 <!-- ### Footer
