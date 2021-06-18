@@ -21,8 +21,8 @@ __Hydrology__
 + Stochastic Hydrology (CE5500)
 + Hydrology (CE6230)
 + Green Infrastructure Hydrology (CE5500)
-+ Hydrologic Modeling: Theory and Practice
-+ Flow Analysis for River Systems
++ Hydrologic Modeling: Theory and Practice (SKKU)
++ Flow Analysis for River Systems (SKKU)
 + Statistical Hydrology (SKKU)
 
 __Remote Sensing__
