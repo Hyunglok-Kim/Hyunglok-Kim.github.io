@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Publications
 
-A list is also available [online](https://scholar.google.com/citations?user=ZJx_f8gAAAAJ)
+A list is also available [__Google Scholar Page__](https://scholar.google.com/citations?user=ZJx_f8gAAAAJ)
 
 ### Peer-Reviewed Papers
 
