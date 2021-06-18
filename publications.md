@@ -8,7 +8,7 @@ layout: resume
 ### Peer-Reviewed Papers
 
 `2021`
-[20] __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model,\ 
+[20] __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model,\
 _Environmental Research Letters_
 
 `2021`
@@ -44,104 +44,113 @@ _Science of The Total Environment_
 _Water Resources Research_
 
 `2018`
-[11] __H. Kim__ and V. Lakshmi, Use of Cyclone Global Navigation Satellite System (CYGNSS) observations for estimation of soil moisture,\ 
+[11] __H. Kim__ and V. Lakshmi, Use of Cyclone Global Navigation Satellite System (CYGNSS) observations for estimation of soil moisture,\
 _Geophysical Research Letters_
 
 `2018`
-[10] D. Kim, H. Moon, __H. Kim__, J. Im, and M. Choi, Intercomparison of Downscaling Techniques for Satellite Soil Moisture Products, 
+[10] D. Kim, H. Moon, __H. Kim__, J. Im, and M. Choi, Intercomparison of Downscaling Techniques for Satellite Soil Moisture Products,\
 _Advances in Meteorology_
 
 `2018`
-[9] __H. Kim__, R. Parinussa, A. Konings, W. Wagner, M. Cosh, V. Lakshmi, M. Zohaib, and M. Choi, Global-scale Assessment and Combination of SMAP with ASCAT (Active) and AMSR2 (Passive) Soil Moisture Products, 
+[9] __H. Kim__, R. Parinussa, A. Konings, W. Wagner, M. Cosh, V. Lakshmi, M. Zohaib, and M. Choi, Global-scale Assessment and Combination of SMAP with ASCAT (Active) and AMSR2 (Passive) Soil Moisture Products,\
 _Remote Sensing of Environment_
 
 `2017`
-[8] H. Nguyen, __H. Kim__, M. Choi, Evaluation of the soil water content using cosmic-ray neutron probe in a heterogeneous monsoon climate-dominated region, 
+[8] H. Nguyen, __H. Kim__, M. Choi, Evaluation of the soil water content using cosmic-ray neutron probe in a heterogeneous monsoon climate-dominated region,\
 _Advances in Water Resources_
 
 `2017`
-[7] M. Zohaib, __H. Kim__, and M. Choi, Evaluating the Patterns of Spatiotemporal Trends of Root Zone Soil Moisture in Major Climate Regions in East Asia,
+[7] M. Zohaib, __H. Kim__, and M. Choi, Evaluating the Patterns of Spatiotemporal Trends of Root Zone Soil Moisture in Major Climate Regions in East Asia,\
 _Journal of Geophysical Research: Atmospheres_
 
 `2017`
-[6] M. Choi, Q. Mu, __H. Kim__, K. Hwang, and J. Hur, Ecosystem-dynamics link to hydrologic variations for different land-cover types,
+[6] M. Choi, Q. Mu, __H. Kim__, K. Hwang, and J. Hur, Ecosystem-dynamics link to hydrologic variations for different land-cover types,\
 _Terrestrial Atmospheric and Oceanic Sciences_
 
 `2017`
-[5] __H. Kim__, Z. Muhammad, E. Cho, Y. Kerr, and M. Choi, Development and Assessment of the Sand Dust Prediction Model by Utilizing Microwave Satellite Soil Moisture and Reanalysis Datasets in East Asian Desert Areas,
+[5] __H. Kim__, Z. Muhammad, E. Cho, Y. Kerr, and M. Choi, Development and Assessment of the Sand Dust Prediction Model by Utilizing Microwave Satellite Soil Moisture and Reanalysis Datasets in East Asian Desert Areas,\
 _Advances in Meteorology_
 
 `2017`
-[4] E. Cho, C. Su, D. Ryu, __H. Kim_, and M. Choi, Does AMSR2 produce better soil moisture retrievals than AMSR-E over Australia?, 
+[4] E. Cho, C. Su, D. Ryu, __H. Kim__, and M. Choi, Does AMSR2 produce better soil moisture retrievals than AMSR-E over Australia?,\
 _Remote Sensing of Environment_
 
 `2016`
-[3] D. Kim, J. Lee, __H. Kim__, and M. Choi, Spatial composition of AMSR2 soil moisture products by conditional merging technique with ground soil moisture data,
+[3] D. Kim, J. Lee, __H. Kim__, and M. Choi, Spatial composition of AMSR2 soil moisture products by conditional merging technique with ground soil moisture data,\
 __Stochastic Environmental Research and Risk Assessment__
 
 `2015`
-[2] __H. Kim__, and M. Choi. "Impact of soil moisture on dust outbreaks in East Asia: Using satellite and assimilation data,
+[2] __H. Kim__, and M. Choi. "Impact of soil moisture on dust outbreaks in East Asia: Using satellite and assimilation data,\
 _Geophysical Research Letters_ 
 
 `2014`
-[1] Y. Jung, __H. Kim__, J. Baek, and M. Choi, Rain Gauge Network Evaluations using Spatiotemporal Correlation Structures for Semi-mountainous Regions, 
+[1] Y. Jung, __H. Kim__, J. Baek, and M. Choi, Rain Gauge Network Evaluations using Spatiotemporal Correlation Structures for Semi-mountainous Regions,\
 _Terrestrial, Atmospheric and Oceanic Sciences_
 
 
 ### Conference Papers
 
 `2020` 
-[9] __H. Kim__ and V. Lakshmi, Producing Satellite-based Diurnal Time-scale Soil Moisture Retrievals using Existing Microwave Satellites and GNSS-R Data (_invited_), 
+[9] __H. Kim__ and V. Lakshmi, Producing Satellite-based Diurnal Time-scale Soil Moisture Retrievals using Existing Microwave Satellites and GNSS-R Data (_invited_),\
 _AGU Fall Meeting_
 
 `2020`
-[8] __H. Kim__, J. Wigneron, S. Kumar, J. Dong, W. Wagner, M. Cosh, D. Bosch, C. Collins, P. Starks, M. Seyfried, and V. Lakshmi, Error Characteristic Assessments of Soil Moisture Estimates from Satellites and Land Surface Models: Focusing on Forested and Irrigated Regions, 
+[8] __H. Kim__, J. Wigneron, S. Kumar, J. Dong, W. Wagner, M. Cosh, D. Bosch, C. Collins, P. Starks, M. Seyfried, and V. Lakshmi, Error Characteristic Assessments of Soil Moisture Estimates from Satellites and Land Surface Models: Focusing on Forested and Irrigated Regions,\
 _AGU Fall Meeting_
 
 `2020`
-[10] R. Zhang, __H. Kim__, L. Band, V. Lakshmi, An Integrated Framework to Predict Peak Flood and Map Inundation Areas in the Chesapeake Bay Using Machine Learning Methods with High-Resolution Lidar DEM and Satellite Data, 
+[10] R. Zhang, __H. Kim__, L. Band, V. Lakshmi, An Integrated Framework to Predict Peak Flood and Map Inundation Areas in the Chesapeake Bay Using Machine Learning Methods with High-Resolution Lidar DEM and Satellite Data,\
 _AGU Fall Meeting_
 
 `2020`
-[9] V. Sunkara, C. Doyle, __H. Kim__, B. Tellman, and V. Lakshmi, Leveraging Soil Moisture for Early Flood Detection, 
+[9] V. Sunkara, C. Doyle, __H. Kim__, B. Tellman, and V. Lakshmi, Leveraging Soil Moisture for Early Flood Detection,\
 _AGU Fall Meeting_
 
 `2020`
-[8] G. Pavur, __H. Kim__, and V. Lakshmi, Detecting Inland Waterbodies Using GNSS-R Data: Intercomparison of Previous Methods and a New Machine Learning Approach, 
+[8] G. Pavur, __H. Kim__, and V. Lakshmi, Detecting Inland Waterbodies Using GNSS-R Data: Intercomparison of Previous Methods and a New Machine Learning Approach,\
 _AGU Fall Meeting_
 
 `2020`
-[7] __H. Kim__, V. Lakshmi, S. Kumar, and Y. Kwon, Assimilation of SMAP-enhanced and SMAP/Sentinel-1A/B soil moisture data into land surface models, 
+[7] __H. Kim__, V. Lakshmi, S. Kumar, and Y. Kwon, Assimilation of SMAP-enhanced and SMAP/Sentinel-1A/B soil moisture data into land surface models,\
 _EGU General Assembly Conference_
 
 `2019`
-[6] __H. Kim__, Y. Kwon, S. Kumar, and V. Lakshmi, Assimilation of GPS soil moisture data from CYGNSS into land surface models, 
+[6] __H. Kim__, Y. Kwon, S. Kumar, and V. Lakshmi, Assimilation of GPS soil moisture data from CYGNSS into land surface models,\
 _AGU Fall Meeting_
 
 `2018`
-[5] __H. Kim__ and V. Lakshmi, The Impact of Irrigation on the Water Cycle in the Continental United States (CONUS), 
+[5] __H. Kim__ and V. Lakshmi, The Impact of Irrigation on the Water Cycle in the Continental United States (CONUS),\
 _AGU Fall Meeting_
 
 `2017`
-[4] __H. Kim__ and V. Lakshmi, Evaluating the Long-term Water Cycle Trends at a Global-scale using Satellite and Assimilation Datasets, 
+[4] __H. Kim__ and V. Lakshmi, Evaluating the Long-term Water Cycle Trends at a Global-scale using Satellite and Assimilation Datasets,\
 _AGU Fall Meeting_
 
 `2016`
-[3] __H. Kim__, R. Parinussa, A. Konings, W. Wagner, M. Cosh, M. Choi, Assessment and Combination of SMAP with ASCAT (Active) and AMSR2 (Passive) Soil Moisture Products: A Case Study in Northeast Asia, 
+[3] __H. Kim__, R. Parinussa, A. Konings, W. Wagner, M. Cosh, M. Choi, Assessment and Combination of SMAP with ASCAT (Active) and AMSR2 (Passive) Soil Moisture Products: A Case Study in Northeast Asia,\
 _AGU Fall Meeting_
 
 `2015`
-[2] __H. Kim__ and M. Choi, Blending and Comparison of Passive and Active Satellite-Based Microwave Soil Moisture Retrievals (ASCAT, MIRAS, AMSR2, FY-3B, and SMAP) with Modeled Simulations (GLDAS) over Different Land Covers in East Asia,
+[2] __H. Kim__ and M. Choi, Blending and Comparison of Passive and Active Satellite-Based Microwave Soil Moisture Retrievals (ASCAT, MIRAS, AMSR2, FY-3B, and SMAP) with Modeled Simulations (GLDAS) over Different Land Covers in East Asia,\
 _AGU Fall Meeting_
 
 `2015`
-[1] __H. Kim__, E. Cho, and M. Choi, Identifying Vulnerability Regions of Dust Outbreaks in East Asian Desert Areas: using ASCAT, MIRAS, AMSR2, MWRI, MODIS, and GLDAS, 
+[1] __H. Kim__, E. Cho, and M. Choi, Identifying Vulnerability Regions of Dust Outbreaks in East Asian Desert Areas: using ASCAT, MIRAS, AMSR2, MWRI, MODIS, and GLDAS,\
 _AGU Fall Meeting_
 
 
 ### Theses
 
-### Peer-Reviewed Journal Papers (KSCI)
+[3] Ph.D. Thesis (TBD)
+
+[2] An Integrated Framework to Predict Peak Flood and Map Inundation Areas Using Machine Learning Methods with High-Resolution Lidar DEM and Satellite Data,\
+University of Virginia (M.S. in Data Science)
+
+[1] Estimation and Application of Satellite-based Soil Moisture Retrievals: Data Inter-comparison, Fusion, and Application in Natural Disasters,\
+Sungkyunkwan University (M.S.E. in Water Resources)
+
+
+### Korea Peer-Reviewed Papers
 
 `2016`
 [7] __H. Kim__, S. Kim, J. Jeong, I. Shin, J. Shin, M. Choi, Revising Passive Satellite-based Soil Moisture Retrievals over East Asia using SMOS (MIRAS) and GCOM-W1 (AMSR2) satellite and GLDAS Assimilation Dataset,
