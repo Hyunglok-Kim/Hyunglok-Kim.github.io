@@ -91,11 +91,11 @@ _Terrestrial, Atmospheric and Oceanic Sciences_
 ### Conference Papers
 
 `2020` 
-[9] __H. Kim__ and V. Lakshmi, Producing Satellite-based Diurnal Time-scale Soil Moisture Retrievals using Existing Microwave Satellites and GNSS-R Data (_invited_),\
+[12] __H. Kim__ and V. Lakshmi, Producing Satellite-based Diurnal Time-scale Soil Moisture Retrievals using Existing Microwave Satellites and GNSS-R Data (_invited_),\
 _AGU Fall Meeting_
 
 `2020`
-[8] __H. Kim__, J. Wigneron, S. Kumar, J. Dong, W. Wagner, M. Cosh, D. Bosch, C. Collins, P. Starks, M. Seyfried, and V. Lakshmi, Error Characteristic Assessments of Soil Moisture Estimates from Satellites and Land Surface Models: Focusing on Forested and Irrigated Regions,\
+[11] __H. Kim__, J. Wigneron, S. Kumar, J. Dong, W. Wagner, M. Cosh, D. Bosch, C. Collins, P. Starks, M. Seyfried, and V. Lakshmi, Error Characteristic Assessments of Soil Moisture Estimates from Satellites and Land Surface Models: Focusing on Forested and Irrigated Regions,\
 _AGU Fall Meeting_
 
 `2020`
