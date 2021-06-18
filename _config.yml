@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Academic Website of Hyunglok Kim
+title: Website of Hyunglok Kim
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Hyunglok Kim
   avatar: bio-photo.jpg
-  bio: "I am a PhD candidate in Engineering Systems and Environment with a focus on hydrology, remote sensing, and deep learning."
+  bio: "I am a PhD candidate in Engineering Systems and Environment at UVA with a focus on hydrology, remote sensing, and deep learning."
   email: hk5kp@virginia.edu
   # Do not include the @ symbol in your Twitter username
   twitter: KimHyunglok
