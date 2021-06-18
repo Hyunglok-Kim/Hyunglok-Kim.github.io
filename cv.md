@@ -7,18 +7,32 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2008 - 2012`
+Hanyang University, Seoul, South Korea
+B.S. in Civil Engineering
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2014 - 2016`
+Sungkyunkwan University, Seoul, South Korea
+M.S.E. in Water Resources
+
+`2020 - 2021`
+University of Virginia, VA, USA
+M.S. in Data Science
+
+`2019 - present'
+University of Virginia, VA, USA
+Ph.D. Candidate in Engineering Systems and Environment
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2019`
+Bicentennial Graduate Fellow, University of Virginia
+
+`2019`
+NASA Future Investigator, NASA
+
+`2020`
+Horton (Hydrology) Research Grant, American Geophysical Union
 
 ## Publications
 
