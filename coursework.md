@@ -6,12 +6,12 @@ title: Coursework
 __Data Science__
 + Machine Learning (SYS6016)
 + Data Mining (SYS6018)
-+ Applied Time Series (STAT5170)
 + Prog & Sys for Data Science (CS5010)
 + Foundations Computer Science (CS5012)
 + Linear Models for Data Science (STAT6021)
 + Practice and App of Data Sci (DS6001)
 + Practice of Data Science II (DS6003)
++ Applied Time Series (STAT5170)
 + Ethics of Big Data I (DS6002)
 + DS Capstone Work I (DS6011)
 + DS Capstone Work II (DS6013)
