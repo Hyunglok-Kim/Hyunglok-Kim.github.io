@@ -77,7 +77,7 @@ _Remote Sensing of Environment_
 
 `2016`
 [3] D. Kim, J. Lee, __H. Kim__, and M. Choi, Spatial composition of AMSR2 soil moisture products by conditional merging technique with ground soil moisture data,\
-__Stochastic Environmental Research and Risk Assessment__
+_Stochastic Environmental Research and Risk Assessment_
 
 `2015`
 [2] __H. Kim__, and M. Choi. "Impact of soil moisture on dust outbreaks in East Asia: Using satellite and assimilation data,\
@@ -144,10 +144,10 @@ _AGU Fall Meeting_
 [3] Ph.D. Thesis (TBD)
 
 [2] An Integrated Framework to Predict Peak Flood and Map Inundation Areas Using Machine Learning Methods with High-Resolution Lidar DEM and Satellite Data,\
-University of Virginia (M.S. in Data Science)
+_University of Virginia_ (M.S. in Data Science)
 
 [1] Estimation and Application of Satellite-based Soil Moisture Retrievals: Data Inter-comparison, Fusion, and Application in Natural Disasters,\
-Sungkyunkwan University (M.S.E. in Water Resources)
+_Sungkyunkwan University_ (M.S.E. in Water Resources)
 
 
 ### Korea Peer-Reviewed Papers
