@@ -1,7 +1,6 @@
 ---
 layout: resume
 ---
-## Currently
 
 I am a PhD candidate in Engineering Systems and Environment with a focus on remote sensing of environment and machine learning. I am a Future Investigators in NASA Earth and Space Science and Technology (2019) ([link](https://news.virginia.edu/content/nasa-aids-uva-grad-student-soil-research-satellite)), and the 2020 AGU Horton Research Grant ([link](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research)) recipient with my project titled "Diurnal Soil Moisture Using Satellite Observations and Data Assimilation".
 
