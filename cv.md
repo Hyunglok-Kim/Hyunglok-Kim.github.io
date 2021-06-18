@@ -54,23 +54,23 @@ Award of Excellence (Student Competition; Second place), Engineering Systems and
 Bicentennial Graduate Fellow, University of Virginia
 
 ## JOURNAL Reviews
-Please see my [Publons record](https://publons.com/researcher/1508356/hyunglok-kim/)
+Please see ([Publons record](https://publons.com/researcher/1508356/hyunglok-kim/))
 
-Remote Sensing of Environment
-Water Resources Research
-IEEE Transactions on Geoscience and Remote Sensing
-IEEE Geoscience and Remote Sensing Letters
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-Geophysical Research Letter
-Journal of Geophysical Research-Biogeosciences
-Scientific Report
-Journal of Meteorological Research
-Remote Sensing Letter
-Remote Sensing (MDPI)
-Sensor (MDPI)
-Water (MDPI)
-Atmospheres (MDPI)
-Hydrology (MDPI)
+Remote Sensing of Environment\
+Water Resources Research\
+IEEE Transactions on Geoscience and Remote Sensing\
+IEEE Geoscience and Remote Sensing Letters\
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing\
+Geophysical Research Letter\
+Journal of Geophysical Research-Biogeosciences\
+Scientific Report\
+Journal of Meteorological Research\
+Remote Sensing Letter\
+Remote Sensing (MDPI)\
+Sensor (MDPI)\
+Water (MDPI)\
+Atmospheres (MDPI)\
+Hydrology (MDPI)\
 
 __Reviewer Board (present)__: Remote Sensing, Geoscience ([link](https://www.mdpi.com/journal/remotesensing/submission_reviewers))
 
