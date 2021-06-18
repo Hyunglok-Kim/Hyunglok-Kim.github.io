@@ -7,7 +7,7 @@ I am a Ph.D. candiate at the Department of Engineering Systems and Environment i
 You can find __[two](link)__ of the many intriguing projects on which I am working.
 See my [Google Scholar record](https://scholar.google.fr/citations?user=ZJx_f8gAAAAJ) to learn more about my work. You can contact me via [hk5kp@virginia.edu](hk5kp@virginia.edu).
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=xxxxx)
+![d](https://placehold.it/150/ffffff/ff0000?text=hello)
 
 ## Current Interests:
 - Applications of Deep Learning in Hydrology
