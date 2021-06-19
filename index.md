@@ -18,5 +18,3 @@ See my [Google Scholar record](https://scholar.google.fr/citations?user=ZJx_f8gA
 - Satellite-based soil moisture data assimilation into land surface models.
 - Impact of human activities (irrigation, modifying crops, etc.) on the global soil moisture dynamics.
 - [GitHub Pages](https://github.com/Hyunglok-Kim)
-
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=index.visitor-badge)
