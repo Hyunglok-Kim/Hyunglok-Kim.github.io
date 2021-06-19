@@ -4,7 +4,7 @@ layout: resume
 # Ready-to-use grid-based data produced from the current projects
 
 ## 1. Data sets shown in Kim et al. 2021 ERL
-Global-scale sub-daily CYGNSS and SMAP assimilated data including soil moisture, land surface, excess rainfall, etc. from Noah-MP land surface model can be downloaded _[here]()_
+Global-scale sub-daily CYGNSS and SMAP assimilated data including soil moisture (4 layers), evapotranspiration, land surface temperature (4 layers), excess rainfall, etc. from Noah-MP land surface model can be downloaded _[here]()_
 
 ## 2. Data sets shown in Kim and Lakshmi 2018 GRL
 CONUS-scale CYGNSS-based soil moisture data can be downloaded _[here]()_
