@@ -3,7 +3,8 @@ layout: page
 excerpt: "About Me..."
 ---
 
-![UVA](https://www.pngfind.com/pngs/m/471-4717876_university-of-virginia-logo-university-of-virginia-hd.png)
+<img src="https://logos-download.com/wp-content/uploads/2017/11/University_of_Virginia_1819_logo-700x700.png"
+height="300">
 
 I am a Ph.D. candiate (3rd year) at the Department of Engineering Systems and Environment in University of Virginia where I am studying hydrology, applications of Bayes’ theorem, and global-scale water cycles. __The overarching goal of my research is to provide accurate hydrological variables and solve the major challenges related to Earth system science that we will face in the coming decades__. My work has practical applications for improving the quantity and quality of satellite- and model-based data to more accurately predict natural disasters and to provide a better understanding of the role played by hydrometeorological factors.
 You can find [<span style="color: blue"> __*two*__ </span>](https://hyunglok-kim.github.io/projects/) of the many intriguing projects on which I am working.\
