@@ -180,6 +180,7 @@ _Korean Society of Hazard Mitigation_
 [1] J. Lim, J. Baik, __H. Kim__, M. Choi, Estimation of Water Quality using Landsat 8 Images for Geum-river, Korea,\
 _Journal of Korea Water Resources Association_
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=publications.visitor-badge)
 <!-- ### Footer
 
 Last updated: Jun 2021 -->
