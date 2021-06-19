@@ -181,6 +181,8 @@ _Korean Society of Hazard Mitigation_
 _Journal of Korea Water Resources Association_
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=publications.visitor-badge)
+
+
 <!-- ### Footer
 
 Last updated: Jun 2021 -->
