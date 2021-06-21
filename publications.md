@@ -154,31 +154,31 @@ _Sungkyunkwan University_ (M.S.E. in Water Resources)
 
 `2016`
 [7] __H. Kim__, S. Kim, J. Jeong, I. Shin, J. Shin, M. Choi, Revising Passive Satellite-based Soil Moisture Retrievals over East Asia using SMOS (MIRAS) and GCOM-W1 (AMSR2) satellite and GLDAS Assimilation Dataset,\
-_Journal of Wetlands Research_
+_Journal of Wetlands Research_ ([link](https://www.semanticscholar.org/paper/Revising-Passive-Satellite-based-Soil-Moisture-over-Kim-Kim/22255e7219ecb3cf2907e5d8ac79f90a7973f19c))
 
 `2016`
 [6] S. Kim, __H. Kim__, M. Choi, Evaluation of satellite-based soil moisture retrieval over the korean peninsula: using AMSR2 LPRM algorithm and ground measurement data,\
-_Journal of Korea Water Resources Association_
+_Journal of Korea Water Resources Association_ ([link](https://www.semanticscholar.org/paper/Evaluation-of-satellite-based-soil-moisture-over-%3A-Kim-Kim/d437616c38d7beabff811e6a5ff37e091d7cf0e1))
 
 `2016`
 [5] L. Li, __H. Kim__, K. Jun, M. Choi, Estimation of River Discharge using Satellite-derived Flow Signals and Artificial Neural Network Model: Application to Imjin River, 
-_Korea Water Resources Association_
+_Korea Water Resources Association_ ([link](https://www.semanticscholar.org/paper/Estimation-of-river-discharge-using-flow-signals-to-Li-Kim/3643ed0d89f61e8bb87c681e25d3638a789b8277))
 
 `2016`
-[4] Construction and estimation of soil moisture site with FDR and COSMIC-ray (SM-FC) sensors for calibration/validation of satellite-based and COSMIC-ray soil moisture products in Sungkyunkwan university, South Korea,\
+[4] __H. Kim__, W. Sunwoo, S. Kim, M. Choi, Construction and estimation of soil moisture site with FDR and COSMIC-ray (SM-FC) sensors for calibration/validation of satellite-based and COSMIC-ray soil moisture products in Sungkyunkwan university, South Korea,\
 _Korea Water Resources Association_ ([link](https://www.koreascience.or.kr/article/JAKO201609757436435.page))
 
 `2016`
 [3] M. Choi, H. Kim, S. Kim, and M. Choi, Effects of Morbidity in Korean Peninsula due to Sand Dust using Satellite Aerosol Observations,\
-_Korea Journal of Remote Sensing_
+_Korea Journal of Remote Sensing_ ([link](http://koreascience.or.kr/article/JAKO201632747976395.page))
 
 `2015`
 [2] __H. Kim__ and M. Choi, An Inter-comparison of Active and Passive Satellite Soil Moisture Products in East Asia for Dust-Outbreak Prediction,\
-_Korean Society of Hazard Mitigation_
+_Korean Society of Hazard Mitigation_ ([link](https://www.j-kosham.or.kr/journal/crossRefTDM.php?number=7546))
 
 `2015`
 [1] J. Lim, J. Baik, __H. Kim__, M. Choi, Estimation of Water Quality using Landsat 8 Images for Geum-river, Korea,\
-_Journal of Korea Water Resources Association_
+_Journal of Korea Water Resources Association_ ([link](http://www.koreascience.or.kr/article/JAKO201507964682973.page))
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=publications.visitor-badge)
 
