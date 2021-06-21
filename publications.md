@@ -150,7 +150,7 @@ _University of Virginia_ (M.S. in Data Science)
 _Sungkyunkwan University_ (M.S.E. in Water Resources)
 
 
-### Korea Peer-Reviewed Papers
+### Korean Peer-Reviewed Papers
 
 `2016`
 [7] __H. Kim__, S. Kim, J. Jeong, I. Shin, J. Shin, M. Choi, Revising Passive Satellite-based Soil Moisture Retrievals over East Asia using SMOS (MIRAS) and GCOM-W1 (AMSR2) satellite and GLDAS Assimilation Dataset,\
