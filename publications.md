@@ -8,7 +8,7 @@ A list is also available [__Google Scholar Page__](https://scholar.google.com/ci
 ### Peer-Reviewed Papers
 
 `2021`
-[20] __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model [_in press_]\
+[20] __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model [<span style="color: blue"> [PDF] </span>](https://iopscience.iop.org/article/10.1088/1748-9326/ac0ddf)\
 _Environmental Research Letters_
 
 `2021`
