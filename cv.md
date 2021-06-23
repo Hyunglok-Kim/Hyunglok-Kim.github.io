@@ -61,6 +61,7 @@ IEEE Transactions on Geoscience and Remote Sensing\
 IEEE Geoscience and Remote Sensing Letters\
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing\
 Geophysical Research Letter\
+Environmental Research Letters\
 Journal of Geophysical Research-Biogeosciences\
 Scientific Report\
 Journal of Meteorological Research\
