@@ -13,5 +13,5 @@ CONUS-scale CYGNSS-based soil moisture data can be downloaded _[here]()_
 - If the the links above do not work, please email me.
 
 __References__
-1. H. Kim, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model, Environmental Research Letters [in press]
-2. [Kim, H., & Lakshmi, V. (2018). Use of Cyclone Global Navigation Satellite System (CYGNSS) observations for estimation of soil moisture. Geophysical Research Letters, 45(16), 8272-8282](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078923).
+1. H. Kim, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model, Environmental Research Letters [link](https://iopscience.iop.org/article/10.1088/1748-9326/ac0ddf)
+2. Kim, H., & Lakshmi, V. (2018). Use of Cyclone Global Navigation Satellite System (CYGNSS) observations for estimation of soil moisture. Geophysical Research Letters, 45(16), 8272-8282 [link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078923).
