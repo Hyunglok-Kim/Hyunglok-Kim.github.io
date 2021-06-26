@@ -10,7 +10,7 @@ Global-scale sub-daily CYGNSS and SMAP assimilated data including soil moisture 
 CONUS-scale CYGNSS-based soil moisture data can be downloaded _[here]()_
 
 - If you need certain formats for the data sets (e.g., NetCDF, HDF, bin, text, etc.), please let me know.
-- If the the links above do not work, please email me.
+- If the links above do not work, please email me.
 
 __References__
 1. H. Kim, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model, Environmental Research Letters [link](https://iopscience.iop.org/article/10.1088/1748-9326/ac0ddf)
