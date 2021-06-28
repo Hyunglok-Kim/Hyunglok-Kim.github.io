@@ -16,6 +16,6 @@ Evapotranspiration, surface temperature, and preciptiation data can be download 
 - If the links above do not work, please email me.
 
 __References__
-1. __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model, Environmental Research Letters ([link](https://iopscience.iop.org/article/10.1088/1748-9326/ac0ddf))
-2. __H. Kim__ & Lakshmi, V. (2018). Use of Cyclone Global Navigation Satellite System (CYGNSS) observations for estimation of soil moisture. Geophysical Research Letters, 45(16), 8272-8282 ([link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078923))
-3. M. Le, __H. Kim__, H. Moon, R. Zhang, V. Lakshmi, and L. Nguyen, Assessment of drought conditions over Vietnam using standardized precipitation evapotranspiration index, MERRA-2 re-analysis, and dynamic land cover, Journal of Hydrology: Regional Studi ([link](https://www.sciencedirect.com/science/article/pii/S221458182030241X))
+1. __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar (2021), First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model, Environmental Research Letters ([link](https://iopscience.iop.org/article/10.1088/1748-9326/ac0ddf))
+2. __H. Kim__ & Lakshmi, V. (2018). Use of Cyclone Global Navigation Satellite System (CYGNSS) observations for estimation of soil moisture. Geophysical Research Letters ([link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018GL078923))
+3. M. Le, __H. Kim__, H. Moon, R. Zhang, V. Lakshmi, and L. Nguyen (2020), Assessment of drought conditions over Vietnam using standardized precipitation evapotranspiration index, MERRA-2 re-analysis, and dynamic land cover, Journal of Hydrology: Regional Studi ([link](https://www.sciencedirect.com/science/article/pii/S221458182030241X))
