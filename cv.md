@@ -28,7 +28,7 @@ B.S. in Civil Engineering
 NASA Future Investigator, NASA ([link](https://engineering.virginia.edu/hyunglok-kim%E2%80%99s-soil-moisture-proposal-earns-selection-nasa%E2%80%99s-%E2%80%98future-investigator%E2%80%99-program))
 
 `2019 - present`
-Bicentennial Graduate Fellow, University of Virginia
+Bicentennial Graduate Fellowship, University of Virginia
 
 `2020`
 AGU Horton Research Grant funded by the Robert E. Horton Fund for Hydrologic Research ([link](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research))
