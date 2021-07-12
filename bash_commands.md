@@ -1,3 +1,7 @@
+---
+layout: resume
+---
+
 1. How to zip files and move to the local machine
 
 [1] Find files and copy to a folder\
