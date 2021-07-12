@@ -1,7 +1,3 @@
----
-layout: resume
----
-
 ### This page includes simple bash command lines that I found usefull in Linux
 
 #### How to zip files and move to the local machine
