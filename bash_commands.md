@@ -1,6 +1,7 @@
 ---
 layout: resume
 ---
+## This page includes bash commands that I use frequently in Linux
 
 ### How to zip files and move to the local machine
 
