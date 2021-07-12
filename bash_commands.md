@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-1. How to zip files and move to the local machine
+### How to zip files and move to the local machine
 
 [1] Find files and copy to a folder\
 find {folder_path_to_find} -name {file_name_to_find} -exec cp -t {folder_path_to_copy} {} +
