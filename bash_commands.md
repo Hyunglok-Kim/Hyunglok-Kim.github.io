@@ -1,5 +1,5 @@
 ## &nbsp;
-## This page includes simple bash command lines that I found usefull in Linux
+## This page includes simple bash commands/VIM options that I found usefull
 
 ### How to zip files and move to the local machine from a HPC server
 
@@ -19,3 +19,38 @@ scp name@rivanna.hpc.virginia.edu:{path_to_the_file} {path_to_the_file_you_want_
 ```
 
 When you copy the file from a remote sever, you should use scp commend in your local mahince not in the remote sever!
+
+
+### Useful setting in VIM
+[1] vertical split of VIM and scroll two window together
+```
+:vsp & :scrollbind (:help scrollopt)
+```
+
+[99] My VIMRC setting
+```
+:vim ~/.vimrc
+syntax on
+set exrc
+set guicursor=
+set nohlsearch
+set hidden
+set number
+set tabstop=4 softtabstop=4
+set shiftwidth=4
+set expandtab
+set noerrorbells
+set smartindent
+set nowrap
+set smartcase
+set noswapfile
+set nobackup
+set undodir=~/.vim/undodir
+set undofile
+set incsearch
+set scrolloff=8
+set colorcolumn=80
+highlight ColorColumn ctermbg=0 guibg=lightgrey
+set relativenumber
+set runtimepath^=~/.vim/bundle/ctrlp.vim
+```
