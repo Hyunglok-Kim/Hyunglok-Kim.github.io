@@ -11,77 +11,77 @@ A list is also available [__Google Scholar Page__](https://scholar.google.com/ci
 [20] __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model [<span style="color: blue"> [PDF] </span>](https://iopscience.iop.org/article/10.1088/1748-9326/ac0ddf)\
 _Environmental Research Letters_
 
-`2021`
-[19] S. Lee, J. Qi, __H. Kim__, G. McCarty, G. Moglen, M. Anderson, X. Zhang, and L. Du, Utility of Remotely Sensed Evapotranspiration Products to Assess an Improved Model Structure [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/19.Lee_etal_2021_Sustainability.pdf)\
-_Sustainability_
-
 `2020`
-[18] M. Le, __H. Kim__, H. Moon, R. Zhang, V. Lakshmi, and L. Nguyen, Assessment of drought conditions over Vietnam using standardized precipitation evapotranspiration index, MERRA-2 re-analysis, and dynamic land cover [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/18.Le_etal_2020_JoHRSpdf.pdf)\
-_Journal of Hydrology: Regional Studies_
-
-`2020`
-[17] __H. Kim__, J. Wigneron, S. Kumar, J. Dong, W. Wagner, M. Cosh, D. Bosch, C. Collins, P. Starks, M. Seyfried, and V. Lakshmi, Global scale error assessments of soil moisture estimates from microwave-based active and passive satellites and land surface models over forest and mixed irrigated/dryland agriculture regions [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/16.Kim_etal_2020_RSE.pdf)\
+[19] __H. Kim__, J. Wigneron, S. Kumar, J. Dong, W. Wagner, M. Cosh, D. Bosch, C. Collins, P. Starks, M. Seyfried, and V. Lakshmi, Global scale error assessments of soil moisture estimates from microwave-based active and passive satellites and land surface models over forest and mixed irrigated/dryland agriculture regions [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/16.Kim_etal_2020_RSE.pdf)\
 _Remote Sensing of Environment_
 
 `2020`
-[16] __H. Kim__, S. Lee, M. Cosh, V. Lakshmi, Y. Kwon, and G. McCarty, Assessment and Combination of SMAP and Sentinel-1A/B-Derived Soil Moisture Estimates With Land Surface Model Outputs in the Mid-Atlantic Coastal Plain, USA [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/17.Kim_etal_2020_IEEE_TGRS.pdf)\
+[18] __H. Kim__, S. Lee, M. Cosh, V. Lakshmi, Y. Kwon, and G. McCarty, Assessment and Combination of SMAP and Sentinel-1A/B-Derived Soil Moisture Estimates With Land Surface Model Outputs in the Mid-Atlantic Coastal Plain, USA [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/17.Kim_etal_2020_IEEE_TGRS.pdf)\
 _IEEE Transactions on Geoscience and Remote Sensing_
 
 `2019` 
-[15] __H. Kim__, M. Cosh, R. Bindlish, and V. Lakshmi, Field evaluation of portable soil water content sensors in a sandy loam [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/15.Kim_etal_2020_VZJ.pdf)\
+[17] __H. Kim__, M. Cosh, R. Bindlish, and V. Lakshmi, Field evaluation of portable soil water content sensors in a sandy loam [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/15.Kim_etal_2020_VZJ.pdf)\
 _Vadose Zone Journal_
 
 `2019`
-[14] S. Parajuli, G. Stenchikov, A. Ukhov, __H. Kim__, Dust emission modeling using a new high‐resolution dust source function in WRF‐Chem with implications for air quality [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/14.Parajuli_etal_JGR_2019.pdf)\
-_Journal of Geophysical Research: Atmospheres_
-
-`2019`
-[13] M. Zohaib, __H. Kim__, M. Choi, Detecting global irrigated areas by using satellite and reanalysis products [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/13.Zohaib_etal_STOTEN_2019.pdf)\
-_Science of The Total Environment_
-
-`2019`
-[12] __H. Kim__ and V. Lakshmi, Global dynamics of stored precipitation water in the topsoil layer from satellite and reanalysis data [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/12.Kim%26Lakshmi_WRR_2019(reduced_file_size).pdf)\
+[16] __H. Kim__ and V. Lakshmi, Global dynamics of stored precipitation water in the topsoil layer from satellite and reanalysis data [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/12.Kim%26Lakshmi_WRR_2019(reduced_file_size).pdf)\
 _Water Resources Research_
 
 `2018`
-[11] __H. Kim__ and V. Lakshmi, Use of Cyclone Global Navigation Satellite System (CYGNSS) observations for estimation of soil moisture [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/10.Kim%26Lakshmi_2018_GRL.pdf)\
+[15] __H. Kim__ and V. Lakshmi, Use of Cyclone Global Navigation Satellite System (CYGNSS) observations for estimation of soil moisture [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/10.Kim%26Lakshmi_2018_GRL.pdf)\
 _Geophysical Research Letters_
 
 `2018`
-[10] D. Kim, H. Moon, __H. Kim__, J. Im, and M. Choi, Intercomparison of Downscaling Techniques for Satellite Soil Moisture Products [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/11.Kim_etal_2018_AIM.pdf)\
-_Advances in Meteorology_
-
-`2018`
-[9] __H. Kim__, R. Parinussa, A. Konings, W. Wagner, M. Cosh, V. Lakshmi, M. Zohaib, and M. Choi, Global-scale Assessment and Combination of SMAP with ASCAT (Active) and AMSR2 (Passive) Soil Moisture Products [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/09.Kim_etal_2018_RSE.pdf)\
+[14] __H. Kim__, R. Parinussa, A. Konings, W. Wagner, M. Cosh, V. Lakshmi, M. Zohaib, and M. Choi, Global-scale Assessment and Combination of SMAP with ASCAT (Active) and AMSR2 (Passive) Soil Moisture Products [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/09.Kim_etal_2018_RSE.pdf)\
 _Remote Sensing of Environment_
 
 `2017`
-[8] H. Nguyen, __H. Kim__, M. Choi, Evaluation of the soil water content using cosmic-ray neutron probe in a heterogeneous monsoon climate-dominated region [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/07.Nguyen_etal_2017_AWR.pdf)\
+[13] __H. Kim__, Z. Muhammad, E. Cho, Y. Kerr, and M. Choi, Development and Assessment of the Sand Dust Prediction Model by Utilizing Microwave Satellite Soil Moisture and Reanalysis Datasets in East Asian Desert Areas [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/06.Kim_etal_2017_AIM.pdf)\
+_Advances in Meteorology_
+
+`2015`
+[12] __H. Kim__, and M. Choi. "Impact of soil moisture on dust outbreaks in East Asia: Using satellite and assimilation data [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/02.Kim%26Choi_2015_GRL.pdf)\
+_Geophysical Research Letters_ 
+
+`2021`
+[11] S. Lee, J. Qi, __H. Kim__, G. McCarty, G. Moglen, M. Anderson, X. Zhang, and L. Du, Utility of Remotely Sensed Evapotranspiration Products to Assess an Improved Model Structure [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/19.Lee_etal_2021_Sustainability.pdf)\
+_Sustainability_
+
+`2020`
+[10] M. Le, __H. Kim__, H. Moon, R. Zhang, V. Lakshmi, and L. Nguyen, Assessment of drought conditions over Vietnam using standardized precipitation evapotranspiration index, MERRA-2 re-analysis, and dynamic land cover [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/18.Le_etal_2020_JoHRSpdf.pdf)\
+_Journal of Hydrology: Regional Studies_
+
+`2019`
+[9] S. Parajuli, G. Stenchikov, A. Ukhov, __H. Kim__, Dust emission modeling using a new high‐resolution dust source function in WRF‐Chem with implications for air quality [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/14.Parajuli_etal_JGR_2019.pdf)\
+_Journal of Geophysical Research: Atmospheres_
+
+`2019`
+[8] M. Zohaib, __H. Kim__, M. Choi, Detecting global irrigated areas by using satellite and reanalysis products [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/13.Zohaib_etal_STOTEN_2019.pdf)\
+_Science of The Total Environment_
+
+`2018`
+[7] D. Kim, H. Moon, __H. Kim__, J. Im, and M. Choi, Intercomparison of Downscaling Techniques for Satellite Soil Moisture Products [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/11.Kim_etal_2018_AIM.pdf)\
+_Advances in Meteorology_
+
+`2017`
+[6] H. Nguyen, __H. Kim__, M. Choi, Evaluation of the soil water content using cosmic-ray neutron probe in a heterogeneous monsoon climate-dominated region [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/07.Nguyen_etal_2017_AWR.pdf)\
 _Advances in Water Resources_
 
 `2017`
-[7] M. Zohaib, __H. Kim__, and M. Choi, Evaluating the Patterns of Spatiotemporal Trends of Root Zone Soil Moisture in Major Climate Regions in East Asia [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/08.Zohaib_etal_2017_JGR.pdf)\
+[5] M. Zohaib, __H. Kim__, and M. Choi, Evaluating the Patterns of Spatiotemporal Trends of Root Zone Soil Moisture in Major Climate Regions in East Asia [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/08.Zohaib_etal_2017_JGR.pdf)\
 _Journal of Geophysical Research: Atmospheres_
 
 `2017`
-[6] M. Choi, Q. Mu, __H. Kim__, K. Hwang, and J. Hur, Ecosystem-dynamics link to hydrologic variations for different land-cover types [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/05.Choi_etal_2017_TAO.pdf)\
+[4] M. Choi, Q. Mu, __H. Kim__, K. Hwang, and J. Hur, Ecosystem-dynamics link to hydrologic variations for different land-cover types [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/05.Choi_etal_2017_TAO.pdf)\
 _Terrestrial Atmospheric and Oceanic Sciences_
 
 `2017`
-[5] __H. Kim__, Z. Muhammad, E. Cho, Y. Kerr, and M. Choi, Development and Assessment of the Sand Dust Prediction Model by Utilizing Microwave Satellite Soil Moisture and Reanalysis Datasets in East Asian Desert Areas [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/06.Kim_etal_2017_AIM.pdf)\
-_Advances in Meteorology_
-
-`2017`
-[4] E. Cho, C. Su, D. Ryu, __H. Kim__, and M. Choi, Does AMSR2 produce better soil moisture retrievals than AMSR-E over Australia? [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/04.Cho_etal_2016_RSE.pdf)\
+[3] E. Cho, C. Su, D. Ryu, __H. Kim__, and M. Choi, Does AMSR2 produce better soil moisture retrievals than AMSR-E over Australia? [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/04.Cho_etal_2016_RSE.pdf)\
 _Remote Sensing of Environment_
 
 `2016`
-[3] D. Kim, J. Lee, __H. Kim__, and M. Choi, Spatial composition of AMSR2 soil moisture products by conditional merging technique with ground soil moisture data [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/03.Kim_etal_2016_SERRA.pdf)\
+[2] D. Kim, J. Lee, __H. Kim__, and M. Choi, Spatial composition of AMSR2 soil moisture products by conditional merging technique with ground soil moisture data [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/03.Kim_etal_2016_SERRA.pdf)\
 _Stochastic Environmental Research and Risk Assessment_
-
-`2015`
-[2] __H. Kim__, and M. Choi. "Impact of soil moisture on dust outbreaks in East Asia: Using satellite and assimilation data [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/02.Kim%26Choi_2015_GRL.pdf)\
-_Geophysical Research Letters_ 
 
 `2014`
 [1] Y. Jung, __H. Kim__, J. Baek, and M. Choi, Rain Gauge Network Evaluations using Spatiotemporal Correlation Structures for Semi-mountainous Regions [<span style="color: blue"> [PDF] </span>](https://github.com/Hyunglok-Kim/Hyunglok-Kim.github.io/blob/master/pdf/01.Jung_etal_2014_TAO.pdf)\
