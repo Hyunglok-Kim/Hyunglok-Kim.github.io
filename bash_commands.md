@@ -27,6 +27,11 @@ When you copy the file from a remote sever, you should use scp commend in your l
 :vsp & :Ex & :set scrollbind (:help scrollopt)
 ```
 
+[2] :resize command or its shortcut :res to change the height of the window
+```
+:vertical resize 80
+```
+
 [99] My VIMRC setting
 ```
 :vim ~/.vimrc
