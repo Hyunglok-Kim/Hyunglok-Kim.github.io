@@ -78,7 +78,7 @@ Ctrl + p      : open plug-in finder (fzf recommended)
 Ctrl + ^      : jump between last two files
 Ctrl + o or i : jump backwards and forwards through history
 m and `       : set a mark and go to a mark
-mH.           : set a global mark
+mH            : set a global mark
 Ctrl + w      : then o to close all but current buffer
 Ctrl + w      : then = to equally spread splits
 Ctrl + w      : then r to rotate buffers
