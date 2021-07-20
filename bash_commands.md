@@ -55,7 +55,20 @@ cw (ce)   : delete a word and enter insert mode
 combos: dt), vf), vt), yt), ct), etc
 D         : delete rest of line
 C         : delete rest of line and enter insert mode
+```
 
+[4] Vertical Domination
+```
+gg           : jump to the top and "G" to jump to the bottom
+:100 or 100G : jump to line 100
+12(j or k)   : jump to 12 down or up
+{ and }      : hop to back and forth between empty lines
+Ctrl + u (d) : jump half-page up and half-page down
+%            : jump to matching pair of curly braces, brackets, parentheses
+*i{          : do command * on inside of curlly brace e.g., di{, d2i{, ci{
+*ip          : do command * on paragraph e.g., cip, vip
+*a[          : do command * on inside of braces including braces e.g., da{
+*diw         : delete word if you're in the middle of word
 ```
 
 [99] My VIMRC setting
