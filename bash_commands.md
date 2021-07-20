@@ -20,6 +20,16 @@ scp name@rivanna.hpc.virginia.edu:{path_to_the_file} {path_to_the_file_you_want_
 
 When you copy the file from a remote sever, you should use scp commend in your local mahince not in the remote sever!
 
+### SLUM setting
+[1] standard partition with largemem
+```
+#!/bin/bash
+#SBATCH --nodes = 1
+#SBATCH --mem-per-cpu=36000
+#SBATCH --time=72:00:00
+#SBATCH --partition=standard
+#SBATCh --account=hydroxxxx
+```
 
 ### Useful setting in VIM
 [1] vertical split of VIM and scroll two window together
