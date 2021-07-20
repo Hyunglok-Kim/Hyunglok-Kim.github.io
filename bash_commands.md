@@ -43,6 +43,21 @@ When you copy the file from a remote sever, you should use scp commend in your l
 :vertical resize 80
 ```
 
+[3] Horizontal Speed
+```
+f*        : jumps to character
+t*        : jumps to behind character
+F* and T* : jump backwards trhough results
+; and ,   : jump forward or backwards through results
+x         : delete a character
+s         : delete a character and entre insert mode
+cw (ce)   : delete a ward and enter insert mode
+combos: dt), vf), vt), yt), ct), etc
+D         : delete rest of line
+C         : delete rest of line and enter insert mode
+
+```
+
 [99] My VIMRC setting
 ```
 :vim ~/.vimrc
