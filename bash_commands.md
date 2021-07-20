@@ -71,6 +71,20 @@ Ctrl + u (d) : jump half-page up and half-page down
 *diw         : delete word if you're in the middle of word
 ```
 
+[5] File Movements, Buffers, Splits
+```
+:e <folder> to opden finder
+Ctrl + p      : open plug-in finder (fzf recommended)
+Ctrl + ^      : jump between last two files
+Ctrl + o or i : jump backwards and forwards through history
+m and `       : set a mark and go to a mark
+mH.           : set a global mark
+Ctrl + w      : then o to close all but current buffer
+Ctrl + w      : then = to equally spread splits
+Ctrl + w      : then r to rotate buffers
+Ctrl + w      : then H to swith from horizontal to vertical split
+```
+
 [99] My VIMRC setting
 ```
 :vim ~/.vimrc
