@@ -24,7 +24,7 @@ When you copy the file from a remote sever, you should use scp commend in your l
 ### Useful setting in VIM
 [1] vertical split of VIM and scroll two window together
 ```
-:vsp & :Ex & :scrollbind (:help scrollopt)
+:vsp & :Ex & :set scrollbind (:help scrollopt)
 ```
 
 [99] My VIMRC setting
