@@ -17,8 +17,16 @@ zip -r {name_you_want_for_the_zip_folder} {folder_you_want_to_zip}
 ```
 scp name@rivanna.hpc.virginia.edu:{path_to_the_file} {path_to_the_file_you_want_to_copy; this should include the file name}
 ```
-
 When you copy the file from a remote sever, you should use scp commend in your local mahince not in the remote sever!
+
+[4] View pictures via ssh.
+We can use the imagemagick module to preview images from the command line.
+```
+module load imagemagick
+magick display myimage.jpeg
+```
+We will need to add the -Y flag to our ssh command when we log into a server: e.g. ssh -Y yourcomputingID@rivanna.hpc.virginia.edu.
+If we are using a Mac, we will need to make sure we have XQuartz installed, and use the terminal application in XQuartz.
 
 ### SLURM settings
 [1] standard partition with largemem
