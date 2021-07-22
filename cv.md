@@ -72,7 +72,7 @@ Water (MDPI)\
 Atmospheres (MDPI)\
 Hydrology (MDPI)
 
-__Reviewer Board (present)__: Remote Sensing, Geoscience ([link](https://www.mdpi.com/journal/remotesensing/submission_reviewers))
+__Reviewer Board (present)__: Remote Sensing, Geoscience ([<span style="color: blue">link</span>](https://www.mdpi.com/journal/remotesensing/submission_reviewers))
 
 
 
