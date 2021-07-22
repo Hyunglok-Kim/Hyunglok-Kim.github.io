@@ -53,7 +53,7 @@ Award of Excellence (Student Competition; Second place), Engineering Systems and
  of Virginia
 
 ## Journal Reviews
-A list is also available [Publons record](https://publons.com/researcher/1508356/hyunglok-kim/)
+A list is also available [<span style="color: blue">Publons record</span>](https://publons.com/researcher/1508356/hyunglok-kim/)
 
 Remote Sensing of Environment\
 Water Resources Research\
