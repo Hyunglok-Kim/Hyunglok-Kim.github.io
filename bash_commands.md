@@ -1,7 +1,7 @@
 ## &nbsp;
-## This page includes simple bash commands/VIM options that I found usefull
+## This page includes simple bash commands/VIM options that I found useful
 
-### How to zip files and move to the local machine from a HPC server
+### How to zip files and move to the local machine from an HPC server
 
 [1] Find files and copy to a folder <br />
 ```
@@ -17,7 +17,7 @@ zip -r {name_you_want_for_the_zip_folder} {folder_you_want_to_zip}
 ```
 scp name@rivanna.hpc.virginia.edu:{path_to_the_file} {path_to_the_file_you_want_to_copy; this should include the file name}
 ```
-When you copy the file from a remote sever, you should use scp commend in your local mahince not in the remote sever!
+When you copy the file from a remote sever, you should use the scp commend in your local machine, not in the remote sever!
 
 [4] View pictures via ssh.
 
