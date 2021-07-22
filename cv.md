@@ -43,17 +43,17 @@ Won 2nd place in the 16th annual University of Virginia Engineering Research Sym
 Travel award given for the 8th International Conference on Flood Management, National Science Foundation (NSF)
 
 `2020`
-Selected for the Korean American Scientists and Engineers Association (KSEA) Graduate Scholarship recipient 
+Selected for the Korean American Scientists and Engineers Association (KSEA) Graduate Scholarship
 
 `2019`
 Outstanding Student Presentation Award at AGU Fall Meeting ([<span style="color: blue">link</span>](https://engineering.virginia.edu/hyunglok-kim-lands-coveted-outstanding-student-presentation-award-agu-fall-meeting))
 
 `2019`
-Award of Excellence (Student Competition; Second place), Engineering Systems and Environment Grad Symposium, University 
+Award of Excellence (Student Competition; Second Place), Engineering Systems and Environment Graduate Symposium, University 
  of Virginia
 
 ## Journal Reviews
-A list is also available [<span style="color: blue">Publons record</span>](https://publons.com/researcher/1508356/hyunglok-kim/)
+A list is also available at [<span style="color: blue">Publons</span>](https://publons.com/researcher/1508356/hyunglok-kim/).
 
 Remote Sensing of Environment\
 Water Resources Research\
