@@ -40,7 +40,7 @@ Virginia Engineering Foundation Graduate Fellowship
 Won 2nd place in the 16th annual University of Virginia Engineering Research Symposium, University of Virginia
 
 `2020`
-National Science Foundation (NSF) Travel awarded for the 8th International Conference on Flood Management
+Travel award given for the 8th International Conference on Flood Management, National Science Foundation (NSF)
 
 `2020`
 Selected for the Korean American Scientists and Engineers Association (KSEA) Graduate Scholarship recipient 
