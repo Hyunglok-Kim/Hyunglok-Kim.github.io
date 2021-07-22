@@ -25,13 +25,13 @@ B.S. in Civil Engineering
 ## Awards
 
 `2019 - present`
-NASA Future Investigator, NASA ([link](https://engineering.virginia.edu/hyunglok-kim%E2%80%99s-soil-moisture-proposal-earns-selection-nasa%E2%80%99s-%E2%80%98future-investigator%E2%80%99-program))
+Future Investigators in NASA Earth and Space Science and Technology, NASA ([<span style="color: blue">link</span>](https://engineering.virginia.edu/hyunglok-kim%E2%80%99s-soil-moisture-proposal-earns-selection-nasa%E2%80%99s-%E2%80%98future-investigator%E2%80%99-program))
 
 `2019 - present`
 Bicentennial Graduate Fellowship, University of Virginia
 
 `2020`
-AGU Horton Research Grant funded by the Robert E. Horton Fund for Hydrologic Research ([link](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research))
+AGU Horton Research Grant funded by the Robert E. Horton Fund for Hydrologic Research ([<span style="color: blue">link</span>](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research))
 
 `2020`
 Virginia Engineering Foundation Graduate Fellowship
@@ -46,7 +46,7 @@ National Science Foundation (NSF) Travel awarded for the 8th International Confe
 Selected for the Korean American Scientists and Engineers Association (KSEA) Graduate Scholarship recipient 
 
 `2019`
-Outstanding Student Presentation Award at AGU Fall Meeting ([link](https://engineering.virginia.edu/hyunglok-kim-lands-coveted-outstanding-student-presentation-award-agu-fall-meeting))
+Outstanding Student Presentation Award at AGU Fall Meeting ([<span style="color: blue">link</span>](https://engineering.virginia.edu/hyunglok-kim-lands-coveted-outstanding-student-presentation-award-agu-fall-meeting))
 
 `2019`
 Award of Excellence (Student Competition; Second place), Engineering Systems and Environment Grad Symposium, University 
