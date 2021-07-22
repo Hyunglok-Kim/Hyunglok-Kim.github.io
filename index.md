@@ -17,5 +17,5 @@ You can also veiw my [<span style="color: blue"> __Google Scholar record__ </spa
 ## Current Projects:
 - Soil moisture retrievals from satellites (passive, active, and GPS signals), reanalysis data, and in situ sensors.
 - Satellite-based soil moisture data assimilation into land surface models.
-- Impact of human activities (irrigation, modifying crops, etc.) on the global soil moisture dynamics.
+- Impact of human activities (irrigation, crop modifications, etc.) on the global soil moisture dynamics.
 - [<span style="color: blue"> __GitHub Pages__ </span>](https://github.com/Hyunglok-Kim)
