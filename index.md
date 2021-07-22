@@ -9,7 +9,8 @@ See my [Google Scholar record](https://scholar.google.fr/citations?user=ZJx_f8gA
 
 ## Current Interests:
 - Applications of Deep Learning in Hydrology
-- Remote Sensing of Environment
+- Bayesian Inference
+- Remote Sensing (Radiometer, GNSS, and Radar)
 - Global Water Cycle
 - Natural Disasters: Urban Floodings, Droughts, and Dust Outbreaks
 
