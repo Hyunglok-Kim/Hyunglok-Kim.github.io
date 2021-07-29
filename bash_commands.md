@@ -29,17 +29,6 @@ magick display myimage.jpeg
 We will need to add the -Y flag to our ssh command when we log into a server: e.g. ssh -Y yourcomputingID@rivanna.hpc.virginia.edu.
 If we are using a Mac, we will need to make sure we have XQuartz installed, and use the terminal application in XQuartz.
 
-### SLURM settings
-[1] standard partition with largemem
-```
-#!/bin/bash
-#SBATCH --nodes = 1
-#SBATCH --mem-per-cpu=36000
-#SBATCH --time=72:00:00
-#SBATCH --partition=standard
-#SBATCh --account=hydroxxxx
-```
-
 ### Useful settings in VIM
 [1] vertical split of VIM and scroll two window together
 ```
@@ -120,4 +109,116 @@ set colorcolumn=80
 highlight ColorColumn ctermbg=0 guibg=lightgrey
 set relativenumber
 set runtimepath^=~/.vim/bundle/ctrlp.vim
+```
+
+### SLURM settings
+[1] standard partition with largemem
+```
+#!/bin/bash
+#SBATCH --nodes = 1
+#SBATCH --mem-per-cpu=36000
+#SBATCH --time=72:00:00
+#SBATCH --partition=standard
+#SBATCh --account=hydroxxxx
+```
+[2] SLURM script for LIS (helped by Ruoshi Sun, UVA)
+```
+Ideally the only things you need to edit are the first 11 lines - resource request and mode selection.
+Lines 14-21: Assign variables that will occur more than once. Check existence of paths before moving on. exit will terminate the script and hence the job.
+Lines 23-26: Load modules. The “&& ||“ construct is equivalent to “if-else”. If something failed, again the job should exit.
+Lines 31-37: Compile LIS and check status.
+Lines 39-44: Create symlink to LIS and check status.
+Lines 46-58: Edit x and/or y pixels via mode selection. You can always redefine the logic. Note the use of native SLURM environment variables.
+Lines 60-80: Export env variables. This should always succeed.
+Finally run LIS. I didn’t modify anything here.
+Since your job has many steps, it’s important to check the “exit status” of each step before proceeding to the next. So if something fails the job should terminate immediately.
+
+#!/bin/bash
+#SBATCH -N 10
+#SBATCH --ntasks-per-node=40  # WARNING: do not use -n
+#SBATCH -t 1:00:00
+#SBATCH -p parallel
+#SBATCH -A hydrosense
+
+# Select mode
+# -  y: all along y
+# - xy: x=#nodes, y=ntasks-per-node
+MODE="xy"
+
+# check if LIS directory and config file exist
+LISDIR=/home/hk5kp/libs/lis
+LISCONFIG="lis.config.noahmp401_ol"
+for i in $LISDIR $LISCONFIG; do
+    if [ ! -e $i ]; then
+        echo "Cannot find $i"
+        exit 1
+    fi
+done
+
+# load modules
+MODS="intel/18.0 intelmpi/18.0 grib_api netcdf/4.6.2-hdf5-1.8.22 hdf/4.2.14-fortran hdf5/1.8.22 hdf-eos/2.20-fortran esmf/7.1.0r-hdf5-1.8.22 openjpeg"
+module purge
+module load $MODS && echo "Loaded modules" || {
+    echo "Failed to load modules"
+    exit 1
+}
+
+# compile
+HERE=`pwd`
+cd $LISDIR
+./compile && echo 0 || {
+    echo "LIS failed to compile. Please check ${LISDIR}!"
+    exit 1
+}
+
+# symlink to LIS - do not copy it
+cd $HERE
+ln -sf $LISDIR/LIS && echo 1 || {
+    echo "Could not create symlink to $LISDIR/LIS"
+    exit 1
+}
+
+# edit x and y pixels
+case $MODE in
+xy) sed -i -e "s/Number of processors along x:.*$/Number of processors along x:          $SLURM_NNODES/" \
+           -e "s/Number of processors along y:.*$/Number of processors along y:          $SLURM_NTASKS_PER_NODE/" \
+           $LISCONFIG
+    ;;
+y)  sed -i "s/Number of processors along y:.*$/Number of processors along y:          $SLURM_NPROCS/" \
+           $LISCONFIG
+    ;;
+*)  echo "Invalid mode"
+    exit 1
+    ;;
+esac
+
+# export environment variables
+#printenv | grep EBROOT
+LIBDIR=$HOME/libs
+export HDF5_USE_FILE_LOCKING=FALSE \
+       LIS_SRC=/home/hk5kp/libs/lis \
+       LIS_ARCH=linux_ifort \
+       LIS_SPMD=parallel \
+       LIS_FC=mpiifort \
+       LIS_CC=mpiicc \
+       LIS_JASPER=${EBROOTJASPER} \
+       LIS_GRIBAPI=${EBROOTGRIB_API} \
+       LIS_NETCDF=${EBROOTNETCDF} \
+       LIS_HDF4=${EBROOTHDF} \
+       LIS_HDF5=${EBROOTHDF5} \
+       LIS_HDFEOS=${EBROOTHDFMINEOS} \
+       LIS_MODESMF=${EBROOTESMF}/mod/ \
+       LIS_LIBESMF=${EBROOTESMF}/lib/ && \
+echo "env exported" || {
+    echo "Could not export environment variables"
+    exit 1
+}
+
+pwd
+#echo ${LD_LIBRARY_PATH}
+echo LIS is running step 2
+
+ulimit -s unlimited
+srun ./LIS --file lis.config.noahmp401_ol
+echo Job finished step 2
 ```
