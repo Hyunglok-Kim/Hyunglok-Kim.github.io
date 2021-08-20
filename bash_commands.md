@@ -83,6 +83,21 @@ Ctrl + w      : then r to rotate buffers
 Ctrl + w      : then H to swith from horizontal to vertical split
 ```
 
+[6] Hidding the GRUB menu showing up at the beginning of boot
+
+sudo -H gedit /etc/default/grub
+```
+GRUB_DEFAULT=0
+GRUB_TIMEOUT=0
+GRUB_TIMEOUT_STYLE=hidden
+GRUB_HIDDEN_TIMEOUT=0
+GRUB_HIDDEN_TIMEOUT_QUIET=true
+GRUB_DISTRIBUTOR= [...]
+GRUB_DISABLE_OS_PROBER=true
+GRUB_RECORDFAIL_TIMEOUT=0
+```
+sudo update-grub
+
 [99] My VIMRC setting
 ```
 :vim ~/.vimrc
