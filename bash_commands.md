@@ -98,6 +98,9 @@ GRUB_RECORDFAIL_TIMEOUT=0
 ```
 sudo update-grub
 
+[7] WOL
+https://linuxconfig.org/how-to-find-my-ip-address-on-ubuntu-20-04-focal-fossa-linux
+
 [99] My VIMRC setting
 ```
 :vim ~/.vimrc
