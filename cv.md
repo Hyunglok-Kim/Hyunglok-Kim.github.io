@@ -30,11 +30,11 @@ Future Investigators in NASA Earth and Space Science and Technology, NASA ([<spa
 `2019 - present`
 Bicentennial Graduate Fellowship, University of Virginia
 
-`2020`
-AGU Horton Research Grant funded by the Robert E. Horton Fund for Hydrologic Research ([<span style="color: blue">link</span>](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research))
-
 `2021`
 Endowed Graduate Fellowship Awards, University of Virginia
+
+`2020`
+AGU Horton Research Grant funded by the Robert E. Horton Fund for Hydrologic Research ([<span style="color: blue">link</span>](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research))
 
 `2020`
 Virginia Engineering Foundation Graduate Fellowship, University of Virginia
