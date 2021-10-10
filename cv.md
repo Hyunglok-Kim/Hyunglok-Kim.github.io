@@ -33,8 +33,11 @@ Bicentennial Graduate Fellowship, University of Virginia
 `2020`
 AGU Horton Research Grant funded by the Robert E. Horton Fund for Hydrologic Research ([<span style="color: blue">link</span>](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research))
 
+`2021`
+Endowed Graduate Fellowship Awards, University of Virginia
+
 `2020`
-Virginia Engineering Foundation Graduate Fellowship
+Virginia Engineering Foundation Graduate Fellowship, University of Virginia
 
 `2020`
 Won 2nd place in the 16th annual University of Virginia Engineering Research Symposium, University of Virginia
