@@ -5,7 +5,7 @@ layout: resume
 I am a PhD candidate in Engineering Systems and Environment with a focus on remote sensing of environment and machine learning. I have received a grant from the Future Investigators in NASA Earth and Space Science and Technology (2019) ([<span style="color: blue">link</span>](https://news.virginia.edu/content/nasa-aids-uva-grad-student-soil-research-satellite)) and the 2020 AGU Horton Research Grant ([<span style="color: blue">link</span>](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research)), both thanks to my research on diurnal oil soisture using satellite observations and data assimilation.
 
 ## Education
-`2019 - present`
+`2017 - present`
 __University of Virginia, VA, USA__
 Ph.D. Candidate in Engineering Systems and Environment
 
@@ -29,6 +29,9 @@ Future Investigators in NASA Earth and Space Science and Technology, NASA ([<spa
 
 `2019 - present`
 Bicentennial Graduate Fellowship, University of Virginia
+
+`2022 - present`
+Graduate Teaching Intern, University of Virginia
 
 `2021`
 Endowed Graduate Fellowship Awards, University of Virginia
