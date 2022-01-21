@@ -9,7 +9,7 @@ Underlined = corresponding author.
 ### Peer-Reviewed Papers
 
 `2022`
-[21] S. Lee, J. Qi, G. McCarty, M. Anderson, Y. Yang, X. Zhang, G. Moglen, D. Kwak, <u>__H. Kim__</u>, V. Lakshmi, S. Kim, 
+[21] S. Lee, J. Qi, G. McCarty, M. Anderson, Y. Yang, X. Zhang, G. Moglen, D. Kwak, <ins>__H. Kim__</ins>, V. Lakshmi, S. Kim, 
 Combined use of crop yield statistics and remotely sensed products for enhanced simulations of evapotranspiration within an agricultural watershed [_in-press_], _Agricultural Water Management_
 
 `2021`
