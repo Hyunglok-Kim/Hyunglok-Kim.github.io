@@ -5,7 +5,12 @@ layout: resume
 
 A list is also available [__Google Scholar Page__](https://scholar.google.com/citations?user=ZJx_f8gAAAAJ)
 
+Underlined = corresponding author.
 ### Peer-Reviewed Papers
+
+`2022`
+[21] S. Lee, J. Qi, G. McCarty, M. Anderson, Y. Yang, X. Zhang, G. Moglen, D. Kwak, <u>__H. Kim__</u>, V. Lakshmi, S. Kim, 
+Combined use of crop yield statistics and remotely sensed products for enhanced simulations of evapotranspiration within an agricultural watershed [_in-press_], _Agricultural Water Management_
 
 `2021`
 [20] __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model [<span style="color: blue"> [PDF] </span>](https://iopscience.iop.org/article/10.1088/1748-9326/ac0ddf)\
