@@ -3,7 +3,7 @@ layout: page
 title: Teaching courses
 ---
 
-__Data Science__
+__Data Science Course__<br/>
 Big data in Earth science (2022 Spring)<br/>
 
 Module 1 (Supervised learning 1)
