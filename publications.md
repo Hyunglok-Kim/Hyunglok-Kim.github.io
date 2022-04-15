@@ -7,10 +7,15 @@ A list is also available [__Google Scholar Page__](https://scholar.google.com/ci
 
 Underlined = corresponding author.
 
-### Undergoing Review
+### Peer-Reviewed Journal Papers (in review/revision)
 `2022`
 [1] Impact of Vegetation Gradient and Land Cover Condition on Soil Moisture Retrievals from Different Frequencies and Acquisition Times of Satellite Observations, _IEEE Transactions on Geoscience and Remote Sensing_
+
+`2022`
 [2] A comprehensive assessment of SM2RAIN-NWF using ASCAT and a combination of ASCAT and SMAP soil moisture products for rainfall estimation, _Science of The Total Environment_
+
+`2022`
+[3] Changes in the speed of the subdaily global terrestrial water cycle due to human intervention
 
 ### Peer-Reviewed Papers
 
