@@ -6,6 +6,12 @@ layout: resume
 A list is also available [__Google Scholar Page__](https://scholar.google.com/citations?user=ZJx_f8gAAAAJ)
 
 Underlined = corresponding author.
+
+### Undergoing Review
+`2022`
+[1] Impact of Vegetation Gradient and Land Cover Condition on Soil Moisture Retrievals from Different Frequencies and Acquisition Times of Satellite Observations, _IEEE Transactions on Geoscience and Remote Sensing_
+[2] A comprehensive assessment of SM2RAIN-NWF using ASCAT and a combination of ASCAT and SMAP soil moisture products for rainfall estimation, _Science of The Total Environment_
+
 ### Peer-Reviewed Papers
 
 `2022`
