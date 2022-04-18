@@ -8,7 +8,7 @@ Big data in Earth science (2022 Spring)<br/>
 
 Module 3 (Supervised learning 3; Classification and Regression Tree (CART) Intro)
 <p align="center">
-<iframe width="560" height="315" src="https://youtu.be/_i4pcj9PCqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_i4pcj9PCqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 Module 2-2 (Supervised learning 2; Bias-variance Tradeoff)
