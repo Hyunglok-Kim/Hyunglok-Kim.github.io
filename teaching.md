@@ -16,12 +16,12 @@ Module 2-2 (Supervised learning 2; Bias-variance Tradeoff)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lW3vnN40bNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Module 2-1 (Supervied learning 2)
+Module 2-1 (Supervied learning 2; Model evaluation and ensemble models)
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWaRqxQmoo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Module 1 (Supervised learning 1)
+Module 1 (Supervised learning 1; Polynomial regression and K-Nearest Neighbors algorithm)
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/04_hEsTFeUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
