@@ -17,6 +17,9 @@ Underlined = corresponding author.
 `2022`
 [3] Changes in the speed of the subdaily global terrestrial water cycle due to human intervention
 
+`2022`
+[4] Performance assessment of SM2RAIN-NWF using ASCAT soil moisture via supervised land cover-soil-climate classification, _Remote Sensing of Environment_
+
 ### Peer-Reviewed Papers
 
 `2022`
