@@ -33,6 +33,9 @@ Bicentennial Graduate Fellowship, University of Virginia
 `2022 - present`
 Graduate Teaching Intern, University of Virginia
 
+`2022`
+Civil Engineering Graduate Award for Superior Research, Department of Engineering Systems and Environment, University of Virginia
+
 `2021`
 Endowed Graduate Fellowship Awards, University of Virginia
 
