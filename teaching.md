@@ -6,6 +6,10 @@ title: Teaching courses
 __Data Science Course__<br/>
 Big data in Earth science (2022 Spring)<br/>
 
+Module 5 (Unsupervised learning 1;  Clustering Intro)
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J7zK2p9jYfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 Module 4 (Supervised learning 4;  Bagging Trees and Random Forest)
 <p align="center">
