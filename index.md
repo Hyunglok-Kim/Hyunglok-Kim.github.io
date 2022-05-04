@@ -7,8 +7,6 @@ I received my Ph.D. degree in Civil Engineering (2022) and my M.S. in Data Scien
 You can find several of the many intriguing projects on which I am working by clicking [<span style="color: blue"> __*this link*__ </span>](https://hyunglok-kim.github.io/projects/). \
 You can also veiw my [<span style="color: blue"> __*Google Scholar record*__ </span>](https://scholar.google.com/citations?user=ZJx_f8gAAAAJ&hl=en&authuser=1) to learn more about my work. You can contact me via __hk5kp at virginia dot edu__.
 
-<img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
-
 ## Current Interests:
 - Applications of Deep Learning to Hydrology
 - Bayesian Inference
@@ -21,3 +19,7 @@ You can also veiw my [<span style="color: blue"> __*Google Scholar record*__ </s
 - Satellite-based soil moisture data assimilation into land surface models.
 - Impact of human activities (irrigation, crop modifications, etc.) on global soil moisture dynamics.
 - [<span style="color: blue"> __*GitHub Pages*__ </span>](https://github.com/Hyunglok-Kim)
+
+
+<img src="{{site.baseurl | prepend: site.url}}movies/GPM_2011_2021.gif" alt="GPM_2011_2021" />
+<img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
