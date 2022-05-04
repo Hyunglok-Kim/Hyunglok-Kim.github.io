@@ -26,8 +26,8 @@ You can also veiw my [<span style="color: blue"> __*Google Scholar record*__ </s
     <img src="{{ "movies/NDVI_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="NDVI_2011_2021" />
   </div>
     <div id="list">
-    <img src="{{ "movies/SMOS_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
-    <img src="{{ "movies/GRACE_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="NDVI_2011_2021" />
+    <img src="{{ "movies/SMOS_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="SMOS_2011_2021" />
+    <img src="{{ "movies/GRACE_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GRACE_2011_2021" />
   </div>
   </div id="output">
 </body>
