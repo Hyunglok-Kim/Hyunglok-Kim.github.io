@@ -8,8 +8,8 @@ You can find several of the many intriguing projects on which I am working by cl
 You can also veiw my [<span style="color: blue"> __*Google Scholar record*__ </span>](https://scholar.google.com/citations?user=ZJx_f8gAAAAJ&hl=en&authuser=1) to learn more about my work. You can contact me via __hk5kp at virginia dot edu__.
 
 <figcaption> Groundwater (up) and precipitation (bottom) dynamics from space (2011 - 2021) (credit: Hyunglok Kim) </figcaption>
-<img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
 <img src="{{ "movies/GRACE_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GRACE_2011_2021" />
+<img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
 
 ## Current Interests:
 - Applications of Deep Learning to Hydrology
