@@ -27,3 +27,16 @@ You can also veiw my [<span style="color: blue"> __*Google Scholar record*__ </s
   </div>
   </div id="output">
 </body>
+
+<div class="row">
+  <div class="column">
+    <img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
+  </div>
+  <div class="column">
+    <img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
+  </div>
+  <div class="column">
+    <img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
+  </div>
+</div>
+
