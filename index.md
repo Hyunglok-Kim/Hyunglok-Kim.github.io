@@ -22,6 +22,7 @@ You can also veiw my [<span style="color: blue"> __*Google Scholar record*__ </s
 
 
   <div class="nav3" style="height:705px;">
+    <figcaption> Precipitation dynamics measured from Global Precipitation Measurement Mission </figcaption>
     <img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
     <img src="{{ "movies/NDVI_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="NDVI_2011_2021" />
   </div>
