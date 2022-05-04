@@ -21,5 +21,4 @@ You can also veiw my [<span style="color: blue"> __*Google Scholar record*__ </s
 - [<span style="color: blue"> __*GitHub Pages*__ </span>](https://github.com/Hyunglok-Kim)
 
 
-<img src="{{site.baseurl | prepend: site.url}}movies/GPM_2011_2021.gif" alt="GPM_2011_2021" />
 <img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
