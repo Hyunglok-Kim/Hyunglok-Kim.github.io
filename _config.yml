@@ -39,6 +39,11 @@ owner:
   codepen: #username
   disqus-shortname:
 
+url: 'https://hyunglok-kim.github.io/' # your main domain
+baseurl: 'PythonFunctionLibrary/' # if you're using custom domain keep this blank example: baseurl: ''
+
+theme: jekyll-theme-hacker
+
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
 highlight-color: '#0069cc'
