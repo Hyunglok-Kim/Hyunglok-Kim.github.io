@@ -21,7 +21,7 @@ You can also veiw my [<span style="color: blue"> __*Google Scholar record*__ </s
 - [<span style="color: blue"> __*GitHub Pages*__ </span>](https://github.com/Hyunglok-Kim)
 
 
-  <div class="nav3" style="height:705px;">
+  <div id="list">
     <figcaption> Precipitation and vegetation dynamics from space </figcaption>
     <img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
     <img src="{{ "movies/NDVI_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="NDVI_2011_2021" />
