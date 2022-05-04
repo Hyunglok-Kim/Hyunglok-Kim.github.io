@@ -26,8 +26,4 @@ You can also veiw my [<span style="color: blue"> __*Google Scholar record*__ </s
     <img src="{{ "movies/NDVI_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="NDVI_2011_2021" />
   </div>
   </div id="output">
-  
-  </div>
-  <script src="js/jquery.js"></script>
-  <script src="js/image.js"></script>
 </body>
