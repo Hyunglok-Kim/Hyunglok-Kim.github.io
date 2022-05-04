@@ -20,5 +20,10 @@ You can also veiw my [<span style="color: blue"> __*Google Scholar record*__ </s
 - Impact of human activities (irrigation, crop modifications, etc.) on global soil moisture dynamics.
 - [<span style="color: blue"> __*GitHub Pages*__ </span>](https://github.com/Hyunglok-Kim)
 
-
-<img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
+<body>
+  <div id="list">
+    <img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
+    <img src="{{ "movies/NDVI_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
+  </div>
+  </div id="output">
+</body>
