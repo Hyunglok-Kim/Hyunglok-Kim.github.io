@@ -6,7 +6,7 @@ title: Teaching courses
 __Data Science Course__<br/>
 Big data in Earth science (2022 Spring)<br/>
 
-All course materials can be found [here](https://github.com/Hyunglok-Kim/Big_Data_in_Earth_Science).
+All the course materials can be found [here](https://github.com/Hyunglok-Kim/Big_Data_in_Earth_Science).
 
 Module 5 (Unsupervised learning 1;  Clustering Intro)
 <p align="center">
