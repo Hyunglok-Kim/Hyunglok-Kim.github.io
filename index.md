@@ -20,7 +20,7 @@ You can also veiw my [<span style="color: blue"> __*Google Scholar record*__ </s
 - Impact of human activities (irrigation, crop modifications, etc.) on global soil moisture dynamics.
 - [<span style="color: blue"> __*GitHub Pages*__ </span>](https://github.com/Hyunglok-Kim)
 
-<figcaption> Precipitation and ground water dynamics from space (2011 - 2021) (credit: Hyunglok Kim) </figcaption>
+<figcaption> Groundwater (up) and precipitation (bottom) dynamics from space (2011 - 2021) (credit: Hyunglok Kim) </figcaption>
 <img src="{{ "movies/GPM_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GPM_2011_2021" />
 <img src="{{ "movies/GRACE_2011_2021.gif" | prepend: site.baseurl | prepend: site.url}}" alt="GRACE_2011_2021" />
 
