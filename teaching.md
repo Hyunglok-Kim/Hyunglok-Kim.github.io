@@ -8,6 +8,16 @@ Big data in Earth science (2022 Spring)<br/>
 
 All the course materials can be found [here](https://github.com/Hyunglok-Kim/Big_Data_in_Earth_Science).
 
+Module 7 (Unsupervised learning 3; Gaussian Mixture Models and Model-based Clustering)
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXcGNCIwitA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+Module 6 (Unsupervised learning 2;  K-means clustering)
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIc2579IxBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 Module 5 (Unsupervised learning 1;  Clustering Intro)
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J7zK2p9jYfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
