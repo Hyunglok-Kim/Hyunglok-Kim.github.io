@@ -33,7 +33,7 @@ Future Investigators in NASA Earth and Space Science and Technology, NASA ([<spa
 `2019 - 2022`
 Bicentennial Graduate Fellowship, University of Virginia
 
-`2022 - 2022`
+`2022`
 Graduate Teaching Intern, University of Virginia
 
 `2022`
