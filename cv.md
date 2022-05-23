@@ -24,10 +24,13 @@ B.S. in Civil Engineering
 
 ## Awards
 
-`2019 - present`
+`2022`
+Civil Engineering Graduate Award for Superior Research, University of Virginia
+
+`2019 - 2022`
 Future Investigators in NASA Earth and Space Science and Technology, NASA ([<span style="color: blue">link</span>](https://engineering.virginia.edu/hyunglok-kim%E2%80%99s-soil-moisture-proposal-earns-selection-nasa%E2%80%99s-%E2%80%98future-investigator%E2%80%99-program))
 
-`2019 - present`
+`2019 - 2022`
 Bicentennial Graduate Fellowship, University of Virginia
 
 `2022 - present`
