@@ -12,19 +12,18 @@ Underlined = corresponding author.
 [1] Impact of Vegetation Gradient and Land Cover Condition on Soil Moisture Retrievals from Different Frequencies and Acquisition Times of Satellite Observations, _IEEE Transactions on Geoscience and Remote Sensing_
 
 `2022`
-[2] A comprehensive assessment of SM2RAIN-NWF using ASCAT and a combination of ASCAT and SMAP soil moisture products for rainfall estimation, _Science of The Total Environment_
-
-`2022`
 [3] Changes in the speed of the subdaily global terrestrial water cycle due to human intervention
 
 `2022`
 [4] Performance assessment of SM2RAIN-NWF using ASCAT soil moisture via supervised land cover-soil-climate classification, _Remote Sensing of Environment_
 
 ### Peer-Reviewed Papers
+`2022`
+[22] A comprehensive assessment of SM2RAIN-NWF using ASCAT and a combination of ASCAT and SMAP soil moisture products for rainfall estimation, M. Saeedi, H. Kim, S. Nabaeia, L. Brocca, V. Lakshmi, H. Mosaffac, [_in-press_], Science of The Total Environment_
 
 `2022`
 [21] S. Lee, J. Qi, G. McCarty, M. Anderson, Y. Yang, X. Zhang, G. Moglen, D. Kwak, <ins>__H. Kim__</ins>, V. Lakshmi, S. Kim, 
-Combined use of crop yield statistics and remotely sensed products for enhanced simulations of evapotranspiration within an agricultural watershed [_in-press_], _Agricultural Water Management_
+Combined use of crop yield statistics and remotely sensed products for enhanced simulations of evapotranspiration within an agricultural watershed <span style="color: blue"> [link] </span>[https://www.sciencedirect.com/science/article/abs/pii/S0378377422000506], _Agricultural Water Management_
 
 `2021`
 [20] __H. Kim__, V. Lakshmi, Y. Kwon, and S. Kumar, First attempt of global-scale assimilation of subdaily scale soil moisture estimates from CYGNSS and SMAP into a land surface model [<span style="color: blue"> [PDF] </span>](https://iopscience.iop.org/article/10.1088/1748-9326/ac0ddf)\
