@@ -23,7 +23,7 @@ Underlined = corresponding author.
 
 `2022`
 [21] S. Lee, J. Qi, G. McCarty, M. Anderson, Y. Yang, X. Zhang, G. Moglen, D. Kwak, <ins>__H. Kim__</ins>, V. Lakshmi, S. Kim, 
-Combined use of crop yield statistics and remotely sensed products for enhanced simulations of evapotranspiration within an agricultural watershed <span style="color: blue"> [link] </span>(https://www.sciencedirect.com/science/article/abs/pii/S0378377422000506)\
+Combined use of crop yield statistics and remotely sensed products for enhanced simulations of evapotranspiration within an agricultural watershed [<span style="color: blue"> [link] </span>](https://www.sciencedirect.com/science/article/abs/pii/S0378377422000506)\
 _Agricultural Water Management_
 
 `2021`
