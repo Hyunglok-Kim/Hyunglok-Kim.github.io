@@ -19,7 +19,7 @@ Underlined = corresponding author.
 
 ### Peer-Reviewed Papers
 `2022`
-[22] A comprehensive assessment of SM2RAIN-NWF using ASCAT and a combination of ASCAT and SMAP soil moisture products for rainfall estimation, M. Saeedi, H. Kim, S. Nabaeia, L. Brocca, V. Lakshmi, H. Mosaffac, [_in-press_], _Science of The Total Environment_
+[22] A comprehensive assessment of SM2RAIN-NWF using ASCAT and a combination of ASCAT and SMAP soil moisture products for rainfall estimation, M. Saeedi, H. Kim, S. Nabaeia, L. Brocca, V. Lakshmi, H. Mosaffac, [_in-press_]\Science of The Total Environment_
 
 `2022`
 [21] S. Lee, J. Qi, G. McCarty, M. Anderson, Y. Yang, X. Zhang, G. Moglen, D. Kwak, <ins>__H. Kim__</ins>, V. Lakshmi, S. Kim, 
