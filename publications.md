@@ -14,10 +14,10 @@ Underlined = corresponding author.
 [1] Impact of Vegetation Gradient and Land Cover Condition on Soil Moisture Retrievals from Different Frequencies and Acquisition Times of Satellite Observations, _IEEE Transactions on Geoscience and Remote Sensing_
 
 `2022`
-[3] Changes in the speed of the subdaily global terrestrial water cycle due to human intervention
+[2] Changes in the speed of the subdaily global terrestrial water cycle due to human intervention
 
 `2022`
-[4] Performance assessment of SM2RAIN-NWF using ASCAT soil moisture via supervised land cover-soil-climate classification, _Remote Sensing of Environment_
+[3] Performance assessment of SM2RAIN-NWF using ASCAT soil moisture via supervised land cover-soil-climate classification, _Remote Sensing of Environment_
 
 ### Peer-Reviewed Papers
 `2022`
