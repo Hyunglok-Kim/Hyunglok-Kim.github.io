@@ -7,7 +7,8 @@ A list is also available [__Google Scholar Page__](https://scholar.google.com/ci
 
 Underlined = corresponding author.
 
-### Peer-Reviewed Journal Papers/
+### Peer-Reviewed Journal Papers
+
 (in review/revision)
 
 `2022`
