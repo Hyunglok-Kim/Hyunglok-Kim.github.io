@@ -6,7 +6,7 @@ I received my Ph.D. degree in Civil Engineering (2022) and my M.S. in Data Scien
 
 ## Current
 `2022 - present`
-__USDA-ARS Hydrology and Remote Sensing Laboratory__ (advisor: Dr. Wade Crow)
+__USDA-ARS Hydrology and Remote Sensing Laboratory__ (advisor: [<span style="color: blue">Dr. Wade Crow</span>])(https://scholar.google.com/citations?user=9nlGATMAAAAJ&hl=en&oi=ao))
 
 Research Scientist
 
