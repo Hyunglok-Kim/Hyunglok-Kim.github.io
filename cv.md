@@ -8,12 +8,11 @@ I received my Ph.D. degree in Civil Engineering (2022) and my M.S. in Data Scien
 `2022 - present`
 __USDA-ARS Hydrology and Remote Sensing Laboratory__ (advisor: [<span style="color: blue">Dr. Wade Crow</span>](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research](https://scholar.google.com/citations?user=9nlGATMAAAAJ&hl=en&oi=ao)))
 
-
 Research Scientist
 
 ## Education
 `2017 - 2022`
-__University of Virginia, VA, USA__ (advisor: Dr. Venkataraman Lakshmi)
+__University of Virginia, VA, USA__ (advisor: [<span style="color: blue">Dr. Venkataraman Lakshmi</span>](https://scholar.google.com/citations?user=vbNdSy0AAAAJ&hl=en)))
 
 Ph.D. in Engineering Systems and Environment (Major: Civil Engineering)
 
