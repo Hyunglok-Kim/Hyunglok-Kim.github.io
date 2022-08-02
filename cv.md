@@ -15,7 +15,7 @@ Research Scientist
 `2017 - 2022`
 __University of Virginia, VA, USA__ (advisor: Dr. Venkataraman Lakshmi)
 
-Ph.D. Candidate in Engineering Systems and Environment
+Ph.D. in Engineering Systems and Environment (Major: Civil Engineering)
 
 `2020 - 2021`
 __University of Virginia, VA, USA__
