@@ -12,20 +12,23 @@ Research Scientist
 
 ## Education
 `2017 - 2022`
-__University of Virginia, VA, USA__ (advisor: [<span style="color: blue">Dr. Venkataraman Lakshmi</span>](https://scholar.google.com/citations?user=vbNdSy0AAAAJ&hl=en)))
+__University of Virginia, VA, USA__ (advisor: [<span style="color: blue">Dr. Venkataraman Lakshmi</span>](https://scholar.google.com/citations?user=vbNdSy0AAAAJ&hl=en))
 
 Ph.D. in Engineering Systems and Environment (Major: Civil Engineering)
 
 `2020 - 2021`
 __University of Virginia, VA, USA__
+
 M.S. in Data Science
 
 `2014 - 2016`
 __Sungkyunkwan University, Seoul, South Korea__
+
 M.S.E. in Water Resources
 
 `2008 - 2012`
 __Hanyang University, Seoul, South Korea__
+
 B.S. in Civil Engineering
 
 
