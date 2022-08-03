@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-I received my Ph.D. degree in Civil Engineering (2022) and my M.S. in Data Science (2021) at the University of Virginia with a focus on remote sensing of environment and machine learning. I have received a grant from the Future Investigators in NASA Earth and Space Science and Technology (2019) ([<span style="color: blue">link</span>](https://news.virginia.edu/content/nasa-aids-uva-grad-student-soil-research-satellite)) and the 2020 AGU Horton Research Grant ([<span style="color: blue">link</span>](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research)), both thanks to my research on diurnal oil soisture using satellite observations and data assimilation.
+I received my Ph.D. degree in Civil Engineering (2022) and my M.S. in Data Science (2021) at the University of Virginia with a focus on remote sensing of environment and machine learning. I have received a grant from the Future Investigators in NASA Earth and Space Science and Technology (2019) ([<span style="color: blue">link</span>](https://news.virginia.edu/content/nasa-aids-uva-grad-student-soil-research-satellite)) and the 2020 AGU Horton Research Grant ([<span style="color: blue">link</span>](https://news.virginia.edu/content/big-questions-child-leads-phd-candidate-big-research)), both thanks to my research on diurnal soil moisture using satellite observations and data assimilation.
 
 ## Current
 `2022 - present`
