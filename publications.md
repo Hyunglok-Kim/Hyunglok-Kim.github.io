@@ -9,16 +9,19 @@ Underlined = corresponding author.
 
 ### Peer-Reviewed Journal Papers
 
-(in review/revision)
+(in review/revision/submission)
 
 `2022`
-[1] Impact of Vegetation Gradient and Land Cover Condition on Soil Moisture Retrievals from Different Frequencies and Acquisition Times of Satellite Observations, _IEEE Transactions on Geoscience and Remote Sensing_
+[1] Impact of Vegetation Gradient and Land Cover Condition on Soil Moisture Retrievals from Different Frequencies and Acquisition Times of Satellite Observations, _IEEE Transactions on Geoscience and Remote Sensing_ (corresponding author)
 
 `2022`
-[2] Changes in the speed of the subdaily global terrestrial water cycle due to human intervention
+[2] Changes in the speed of the subdaily global terrestrial water cycle due to human intervention (first author)
 
 `2022`
-[3] Performance assessment of SM2RAIN-NWF using ASCAT soil moisture via supervised land cover-soil-climate classification, _Remote Sensing of Environment_
+[3] Performance assessment of SM2RAIN-NWF using ASCAT soil moisture via supervised land cover-soil-climate classification, _Remote Sensing of Environment_ (co-author)
+
+`2022`
+[4] Toward streamflow estimation in ungauged regions using machine learning: Quantifying uncertainties in spatial extrapolation, _Science of Total Environment_ (initial submission started) (corresponding author)
 
 ### Peer-Reviewed Papers
 `2022`
