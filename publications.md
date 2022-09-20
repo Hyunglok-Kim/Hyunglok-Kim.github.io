@@ -18,7 +18,7 @@ Underlined = corresponding author.
 [2] Changes in the speed of the subdaily global terrestrial water cycle due to human intervention (re-submission) (first author)
 
 `2022`
-[3] Performance assessment of SM2RAIN-NWF using ASCAT soil moisture via supervised land cover-soil-climate classification, _Remote Sensing of Environment_ (in-review) (co-author)
+[3] Performance assessment of SM2RAIN-NWF using ASCAT soil moisture via supervised land cover-soil-climate classification, _Remote Sensing of Environment_ (major revision) (co-author)
 
 `2022`
 [4] Toward streamflow estimation in ungauged regions using machine learning: Quantifying uncertainties in spatial extrapolation, _Hydrology and Earth System Sciences Discussions_ (in-review) (corresponding author)
