@@ -25,12 +25,12 @@ Underlined = corresponding author.
 
 ### Peer-Reviewed Papers
 `2022`
+
 [23] Toward streamflow estimation in ungauged regions using machine learning: Quantifying uncertainties in spatial extrapolation, _Hydrology and Earth System Sciences Discussion_ (pre-print) (corresponding author)
 
 [22] A comprehensive assessment of SM2RAIN-NWF using ASCAT and a combination of ASCAT and SMAP soil moisture products for rainfall estimation, M. Saeedi, H. Kim, S. Nabaeia, L. Brocca, V. Lakshmi, H. Mosaffac [<span style="color: blue"> _in-press_ </span>]\
 _Science of The Total Environment_
 
-`2022`
 [21] S. Lee, J. Qi, G. McCarty, M. Anderson, Y. Yang, X. Zhang, G. Moglen, D. Kwak, <ins>__H. Kim__</ins>, V. Lakshmi, S. Kim, 
 Combined use of crop yield statistics and remotely sensed products for enhanced simulations of evapotranspiration within an agricultural watershed [<span style="color: blue"> [link] </span>](https://www.sciencedirect.com/science/article/abs/pii/S0378377422000506)\
 _Agricultural Water Management_
