@@ -21,10 +21,12 @@ Underlined = corresponding author.
 [3] Performance assessment of SM2RAIN-NWF using ASCAT soil moisture via supervised land cover-soil-climate classification, _Remote Sensing of Environment_ (major revision) (co-author)
 
 `2022`
-[4] Toward streamflow estimation in ungauged regions using machine learning: Quantifying uncertainties in spatial extrapolation, _Hydrology and Earth System Sciences Discussions_ (in-review) (corresponding author)
+[4] Toward streamflow estimation in ungauged regions using machine learning: Quantifying uncertainties in spatial extrapolation, _Hydrology and Earth System Sciences_ (in-review) (corresponding author)
 
 ### Peer-Reviewed Papers
 `2022`
+[23] Toward streamflow estimation in ungauged regions using machine learning: Quantifying uncertainties in spatial extrapolation, _Hydrology and Earth System Sciences Discussion_ (pre-print) (corresponding author)
+
 [22] A comprehensive assessment of SM2RAIN-NWF using ASCAT and a combination of ASCAT and SMAP soil moisture products for rainfall estimation, M. Saeedi, H. Kim, S. Nabaeia, L. Brocca, V. Lakshmi, H. Mosaffac [<span style="color: blue"> _in-press_ </span>]\
 _Science of The Total Environment_
 
