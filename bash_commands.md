@@ -1,6 +1,10 @@
 ## &nbsp;
 ## This page includes simple bash commands/VIM options that I found useful
 
+### How to remove files in a list.txt file
+
+[1] while read -r file; do rm -- "$file"; done < list.txt
+
 ### How to zip files and move to the local machine from an HPC server
 
 [1] Find files and copy to a folder <br />
